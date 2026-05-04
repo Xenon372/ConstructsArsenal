@@ -1,0 +1,6 @@
+{
+  "type": "tconstruct:tool_building",
+  "result": "construct_arsenal:throwing_card",
+  "result_count": 8,
+  "slot_layout": "construct_arsenal:throwing_card"
+}

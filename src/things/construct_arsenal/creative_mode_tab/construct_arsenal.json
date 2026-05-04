@@ -1,0 +1,13 @@
+{
+  "icon": "construct_arsenal:helix_blade",
+    "translation_key": "itemGroup.construct_arsenal.construct_arsenal",
+	"items": [
+    "construct_arsenal:quarterstaff",
+    "construct_arsenal:helix_blade",
+    "construct_arsenal:buckler",
+    "construct_arsenal:throwing_card",
+    "construct_arsenal:card_top",
+    "construct_arsenal:card_bottom",
+    "construct_arsenal:cardstock_cast"
+  ]
+}

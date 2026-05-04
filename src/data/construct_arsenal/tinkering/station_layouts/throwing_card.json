@@ -1,0 +1,31 @@
+{
+  "icon": {
+    "item": "construct_arsenal:throwing_card",
+    "nbt": {
+      "tic_display": true,
+      "tic_materials": ["tconstruct:ui_render#head", "tconstruct:ui_render#handle", "tconstruct:ui_render#extra", "tconstruct:ui_render#large", "tconstruct:ui_render#extra_large"]
+    }
+  },
+  "input_slots": [
+    {
+      "filter": {
+        "item": "construct_arsenal:card_top"
+      },
+      "icon": "construct_arsenal:card_top",
+      "translation_key": "item.construct_arsenal.card_top",
+      "x": 33,
+      "y": 29
+    },
+    {
+      "filter": {
+        "item": "construct_arsenal:card_bottom"
+      },
+      "icon": "construct_arsenal:card_bottom",
+      "translation_key": "item.construct_arsenal.card_bottom",
+      "x": 33,
+      "y": 53
+    }
+  ],
+  "sortIndex": 7,
+  "translation_key": "item.construct_arsenal.throwing_card"
+}

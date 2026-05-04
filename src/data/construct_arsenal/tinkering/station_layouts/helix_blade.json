@@ -1,0 +1,58 @@
+{
+  "translation_key": "item.construct_arsenal.helix_blade",
+  "icon": {
+    "item": "construct_arsenal:helix_blade",
+    "nbt": {
+      "tic_display": true,
+      "tic_materials": ["tconstruct:ui_render#head", "tconstruct:ui_render#handle", "tconstruct:ui_render#extra", "tconstruct:ui_render#large", "tconstruct:ui_render#extra_large"]
+    }
+  },
+  "sortIndex": 13,
+  "input_slots": [
+    {
+      "filter": {
+        "item": "tconstruct:small_blade"
+      },
+      "icon": "tconstruct:small_blade",
+      "translation_key": "item.tconstruct.small_blade",
+      "x": 30,
+      "y": 24
+    },
+    {
+      "filter": {
+        "item": "tconstruct:small_blade"
+      },
+      "icon": "tconstruct:small_blade",
+      "translation_key": "item.tconstruct.small_blade",
+      "x": 48,
+      "y": 24
+    },
+    {
+      "filter": {
+        "item": "tconstruct:small_blade"
+      },
+      "icon": "tconstruct:small_blade",
+      "translation_key": "item.tconstruct.small_blade",
+      "x": 30,
+      "y": 42
+    },
+	{
+      "filter": {
+        "item": "tconstruct:small_blade"
+      },
+      "icon": "tconstruct:small_blade",
+      "translation_key": "item.tconstruct.small_blade",
+      "x": 48,
+      "y": 42
+    },
+    {
+      "filter": {
+        "item": "tconstruct:tough_handle"
+      },
+      "icon": "tconstruct:tough_handle",
+      "translation_key": "item.tconstruct.tough_handle",
+      "x": 12,
+      "y": 60
+    }
+  ]
+}

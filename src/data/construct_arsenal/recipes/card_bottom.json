@@ -1,0 +1,17 @@
+{
+  "type": "tconstruct:part_builder",
+  "allow_uncraftable": true,
+  "cost": 1,
+  "pattern": "construct_arsenal:card_bottom",
+  "pattern_item": [
+    {
+      "tag": "tconstruct:patterns/default"
+    },
+    {
+      "item": "construct_arsenal:cardstock_cast"
+    }
+  ],
+  "result": {
+    "item": "construct_arsenal:card_bottom"
+  }
+}

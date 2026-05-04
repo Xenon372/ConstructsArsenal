@@ -1,0 +1,7 @@
+{
+  "type": "tconstruct:shuriken",
+  "break_blocks_in_creative": false,
+  "max_stack_size": 32,
+  "group": "construct_arsenal:construct_arsenal",
+  "color_handler": "tconstruct:tool"
+}
