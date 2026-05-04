@@ -1,0 +1,14 @@
+{
+  "tool": "construct_arsenal:throwing_card",
+  "text": [
+    { "text": "Throwing Cards are light projectiles that can be thrown at a high velocity." },
+    { "text": "They're cheap and easy to use, but they lack power.", "paragraph": true }
+  ],
+  "properties": [
+    "2.0 Velocity",
+    "1.0 Projectile Damage",
+    "150% Damage Multiplier",
+    "0.85 Accuracy",
+    "1 Head Trait"
+  ]
+}

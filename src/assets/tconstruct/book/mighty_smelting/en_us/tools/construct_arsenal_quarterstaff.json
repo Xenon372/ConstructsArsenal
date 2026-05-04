@@ -1,0 +1,12 @@
+{
+  "tool": "construct_arsenal:quarterstaff",
+  "text": [
+    { "text": "A long stick. Use it to block against enemy attacks!" }
+  ],
+  "properties": [
+    "Reach weapon",
+	"Low Damage",
+	"Mid Block Potential",
+	"Not very sharp"
+  ]
+}

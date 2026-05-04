@@ -1,0 +1,19 @@
+{
+  "tool": "construct_arsenal:helix_blade",
+  "text": [
+    { "text": "The Helix Blade is a massive sword with a large number of parts, but it lacks modifier slots as a result." },
+    { "text": "\n" },
+    { "text": "\n" },
+    { "text": "Dawn of The Final Day" },
+    { "text": "\n" },
+    { "text": "-24 Hours Remain-" },
+  ],
+  "properties": [
+    "+6 Attack Damage",
+    "0.5 Attack Speed",
+    "170% Attack Modifier",
+    "130% Durability",
+    "1 Upgrade Slot",
+    "0 Ability Slots"
+  ]
+}

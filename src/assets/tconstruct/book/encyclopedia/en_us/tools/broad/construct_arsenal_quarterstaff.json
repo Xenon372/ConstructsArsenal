@@ -1,0 +1,16 @@
+{
+  "tool": "construct_arsenal:quarterstaff",
+  "text": [
+    { "text": "The Quarterstaff is a defensive polearm designed for light but fast blows against far away opponents." }
+  ],
+  "properties": [
+    "+1.75 Attack Damage",
+    "2.0 Attack Speed",
+    "75% Attack Modifier",
+    "110% Durability",
+	"Blocks 7.5 damage",
+	"120 Block Angle",
+	"80% Block Speed",
+	"Long Reach"
+  ]
+}

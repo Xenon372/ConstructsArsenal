@@ -1,0 +1,16 @@
+{
+  "tool": "construct_arsenal:helix_blade",
+  "text": [
+    { "text": "A comically large sword. It trades its modifier slots for an increased number of parts." },
+    { "text": "\n" },
+    { "text": "\n" },
+    { "text": "Dawn of The Final Day" },
+    { "text": "\n" },
+    { "text": "-24 Hours Remain-" },
+  ],
+  "properties": [
+    "Strong weapon",
+	"High Damage",
+	"Very Slow Swinging"
+  ]
+}

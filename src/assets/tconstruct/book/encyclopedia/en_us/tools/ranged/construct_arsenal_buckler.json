@@ -1,0 +1,14 @@
+{
+  "tool": "construct_arsenal:buckler",
+  "text": [
+    { "text": "The Buckler is a light shield that can be thrown." }
+  ],
+  "properties": [
+    "+1.5 Attack Damage",
+	"1.2 Attack Speed",
+    "110% Durability",
+	"Blocks 15 damage",
+	"140 Block Angle",
+	"70% Block Speed"
+  ]
+}

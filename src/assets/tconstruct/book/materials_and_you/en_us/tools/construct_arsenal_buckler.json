@@ -1,0 +1,24 @@
+{
+  "tool": "construct_arsenal:buckler",
+  "text": [
+    {
+      "text": "If you want to play catch with a zombie, this shield is your best bet."
+    },
+	{
+      "text": "\n"
+    },
+	 {
+      "text": "A light shield that's more aerodynamic than a traveler's shield. Try tossing it!",
+	  "paragraph": true
+    }
+  
+  ],
+  "properties": [
+    "Medium Block Potential",
+    "Throwing and Returning",
+    "High speed while shielding",
+    "3 Upgrade Slots",
+    "2 Defense Slots",
+    "3 Material Traits"
+  ]
+}

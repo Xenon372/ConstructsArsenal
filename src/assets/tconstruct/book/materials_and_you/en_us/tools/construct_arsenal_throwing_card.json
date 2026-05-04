@@ -1,0 +1,20 @@
+{
+  "tool": "construct_arsenal:throwing_card",
+  "text": [
+    {
+      "text": "Throwing Cards are light projectiles that can be thrown at a high velocity."
+    },
+	{
+      "text": "\n"
+    },
+	 {
+      "text": "They're not very powerful, but they're cheap and easy to use.",
+	  "paragraph": true
+    }
+  
+  ],
+  "properties": [
+    "Quick, disposable ranged option",
+    "Does not require another tool to fire"
+  ]
+}
