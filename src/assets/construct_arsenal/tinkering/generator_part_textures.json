@@ -1,0 +1,47 @@
+{
+  "replace": false,
+  "parts": [
+    { "path": "construct_arsenal:item/tool/quarterstaff/top_handle",        "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/quarterstaff/top_handle_broken", "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/quarterstaff/bottom_handle",       "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/quarterstaff/bottom_handle_broken", "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/quarterstaff/caps",        "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/quarterstaff/grip",         "stat_type": "tconstruct:shield_core" },
+	
+    { "path": "construct_arsenal:item/tool/quarterstaff/large/top_handle",        "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/quarterstaff/large/top_handle_broken", "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/quarterstaff/large/bottom_handle",       "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/quarterstaff/large/bottom_handle_broken", "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/quarterstaff/large/caps",        "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/quarterstaff/large/grip",         "stat_type": "tconstruct:shield_core" },
+
+	{ "path": "construct_arsenal:item/tool/helix_blade/blade_tl",        "stat_type": "tconstruct:head" },
+	{ "path": "construct_arsenal:item/tool/helix_blade/blade_tr",        "stat_type": "tconstruct:head" },
+	{ "path": "construct_arsenal:item/tool/helix_blade/blade_bl",        "stat_type": "tconstruct:head" },
+	{ "path": "construct_arsenal:item/tool/helix_blade/blade_br",        "stat_type": "tconstruct:head" },
+	{ "path": "construct_arsenal:item/tool/helix_blade/blade_tl_broken",        "stat_type": "tconstruct:head" },
+	{ "path": "construct_arsenal:item/tool/helix_blade/blade_tr_broken",        "stat_type": "tconstruct:head" },
+	{ "path": "construct_arsenal:item/tool/helix_blade/blade_bl_broken",        "stat_type": "tconstruct:head" },
+	{ "path": "construct_arsenal:item/tool/helix_blade/blade_br_broken",        "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/helix_blade/hilt", "stat_type": "tconstruct:handle" },
+	
+    { "path": "construct_arsenal:item/tool/helix_blade/large/blade_tl",        "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/helix_blade/large/blade_tr",        "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/helix_blade/large/blade_bl",        "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/helix_blade/large/blade_br",        "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/helix_blade/large/blade_tl_broken",        "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/helix_blade/large/blade_tr_broken",        "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/helix_blade/large/blade_bl_broken",        "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/helix_blade/large/blade_br_broken",        "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/helix_blade/large/hilt", "stat_type": "tconstruct:handle" },
+	
+	{ "path": "construct_arsenal:item/tool/ammo/card_top",         "stat_type": "tconstruct:arrow_head" },
+    { "path": "construct_arsenal:item/tool/ammo/card_bottom",         "stat_type": "tconstruct:fletching" },
+	
+    { "path": "construct_arsenal:item/tool/buckler/core",         "stat_type": "tconstruct:shield_core" },
+    { "path": "construct_arsenal:item/tool/buckler/rim_top",         "stat_type": "tconstruct:limb" },
+    { "path": "construct_arsenal:item/tool/buckler/rim_bottom",         "stat_type": "tconstruct:grip" },
+    { "path": "construct_arsenal:item/tool/buckler/core_broken",         "stat_type": "tconstruct:shield_core" },
+    { "path": "construct_arsenal:item/tool/buckler/rim_top_broken",         "stat_type": "tconstruct:limb" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "forge:item/default",
+  "loader": "tconstruct:material",
+  "textures": {
+    "texture": "construct_arsenal:item/tool/ammo/card_bottom"
+  }
+}

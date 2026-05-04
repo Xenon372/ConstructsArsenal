@@ -1,0 +1,37 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "top_handle":  "construct_arsenal:item/tool/quarterstaff/top_handle",
+    "bottom_handle": "construct_arsenal:item/tool/quarterstaff/bottom_handle",
+    "caps":  "construct_arsenal:item/tool/quarterstaff/caps",
+    "grip":   "construct_arsenal:item/tool/quarterstaff/grip",
+    
+    "large_top_handle":  "construct_arsenal:item/tool/quarterstaff/large/top_handle",
+    "large_bottom_handle": "construct_arsenal:item/tool/quarterstaff/large/bottom_handle",
+    "large_caps":  "construct_arsenal:item/tool/quarterstaff/large/caps",
+    "large_grip":   "construct_arsenal:item/tool/quarterstaff/large/grip"
+  },
+  "modifier_roots": {
+	  "small": [ "construct_arsenal:item/tool/quarterstaff/modifiers/" ],
+	  "large": [ "construct_arsenal:item/tool/quarterstaff/large/modifiers/" ]
+  },
+  "large": true,
+  "large_offset": [-16, 16],
+  "parts": [
+    { "name": "top_handle",  "index": 1 },
+    { "name": "bottom_handle",  "index": 0 },
+    { "name": "caps", "index": 2 },
+    { "name": "grip",   "index": 3 }
+  ],
+  "overrides": [
+	{
+	  "predicate": { "tconstruct:charging": 2 },
+      "model": "construct_arsenal:item/quarterstaff/blocking"
+	},
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "construct_arsenal:item/quarterstaff/broken"
+    }
+  ]
+}

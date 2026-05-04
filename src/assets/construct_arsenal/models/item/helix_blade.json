@@ -1,0 +1,40 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "blade_tl":  "construct_arsenal:item/tool/helix_blade/blade_tl",
+    "blade_tr": "construct_arsenal:item/tool/helix_blade/blade_tr",
+    "blade_bl":  "construct_arsenal:item/tool/helix_blade/blade_bl",
+    "blade_br":   "construct_arsenal:item/tool/helix_blade/blade_br",
+    "hilt":   "construct_arsenal:item/tool/helix_blade/hilt",
+    
+    "large_blade_tl":  "construct_arsenal:item/tool/helix_blade/large/blade_tl",
+    "large_blade_tr": "construct_arsenal:item/tool/helix_blade/large/blade_tr",
+    "large_blade_bl":  "construct_arsenal:item/tool/helix_blade/large/blade_bl",
+    "large_blade_br":   "construct_arsenal:item/tool/helix_blade/large/blade_br",
+    "large_hilt":   "construct_arsenal:item/tool/helix_blade/large/hilt"
+  },
+  "modifier_roots": {
+	  "small": [ "construct_arsenal:item/tool/helix_blade/modifiers/" ],
+	  "large": [ "construct_arsenal:item/tool/helix_blade/large/modifiers/" ]
+  },
+  "large": true,
+  "large_offset": [3, -3],
+  "parts": [
+    { "name": "blade_tl",  "index": 0 },
+    { "name": "blade_tr",  "index": 1 },
+    { "name": "blade_bl", "index": 2 },
+    { "name": "blade_br",   "index": 3 },
+    { "name": "hilt",   "index": 4 }
+  ],
+  "overrides": [
+	{
+	  "predicate": { "tconstruct:charging": 2 },
+      "model": "construct_arsenal:item/helix_blade/blocking"
+	},
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "construct_arsenal:item/helix_blade/broken"
+    }
+  ]
+}

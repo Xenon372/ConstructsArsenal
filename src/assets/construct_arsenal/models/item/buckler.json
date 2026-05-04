@@ -1,0 +1,26 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "construct_arsenal:item/buckler/display",
+  "textures": {
+    "core":    "construct_arsenal:item/tool/buckler/core",
+    "rim_top": "construct_arsenal:item/tool/buckler/rim_top",
+    "rim_bottom": "construct_arsenal:item/tool/buckler/rim_bottom"
+  },
+  "modifier_roots": [ "construct_arsenal:item/tool/buckler/modifiers/" ],
+  "first_modifiers": [ "tconstruct:dyed" ],
+  "parts": [
+    { "name": "rim_top", "index": 1 },
+    { "name": "core", "index": 0 },
+    { "name": "rim_bottom", "index": 2 }
+  ],
+  "overrides": [
+    {
+      "predicate": { "tconstruct:charging": 2 },
+      "model": "construct_arsenal:item/buckler/blocking"
+    },
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "construct_arsenal:item/buckler/broken"
+    }
+  ]
+}

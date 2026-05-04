@@ -1,0 +1,24 @@
+{
+  "itemGroup.construct_arsenal.construct_arsenal": "Construct's Arsenal",
+  
+  "item.construct_arsenal.quarterstaff": "Quarterstaff",
+  "item.construct_arsenal.quarterstaff.description": "The Quarterstaff is a defensive polearm designed for light but fast blows against far away opponents.",
+  "modifier.construct_arsenal.range": "Long Reach",
+  "modifier.construct_arsenal.range.flavor": "Extra long handle",
+  "modifier.construct_arsenal.range.description": "Tool is extra long, allowing attacking far away monsters",
+  
+  "item.construct_arsenal.helix_blade": "Helix Blade",
+  "item.construct_arsenal.helix_blade.description": "The Helix Blade is a massive sword with a large number of parts, but it lacks modifier slots as a result.",
+  
+  "item.construct_arsenal.throwing_card": "Throwing Card",
+  "item.construct_arsenal.throwing_card.description": "Throwing Cards are light projectiles that can be thrown at a high velocity. They don't deal nearly as much damage as other options due to their size, but they're more accurate and cheaper to make.",
+  
+  "pattern.construct_arsenal.card_top": "Card Base",
+  "pattern.construct_arsenal.card_bottom": "Card Backing",
+  "item.construct_arsenal.card_top": "Card Base",
+  "item.construct_arsenal.card_bottom": "Card Backing",
+  "item.construct_arsenal.cardstock_cast": "Cardstock Gold Pattern",
+  
+  "item.construct_arsenal.buckler": "Buckler",
+  "item.construct_arsenal.buckler.description": "The Buckler is a light shield that can be thrown."
+}
