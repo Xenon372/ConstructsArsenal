@@ -20,5 +20,11 @@
   "item.construct_arsenal.cardstock_cast": "Cardstock Gold Pattern",
   
   "item.construct_arsenal.buckler": "Buckler",
-  "item.construct_arsenal.buckler.description": "The Buckler is a light shield that can be thrown."
+  "item.construct_arsenal.buckler.description": "The Buckler is a light shield that can be thrown.",
+  
+  "item.construct_arsenal.scissors": "Scissors",
+  "item.construct_arsenal.scissors.description": "The Scissors are a set of massive shears that can be charged to deal heavy damage to opponents.",
+  "modifier.construct_arsenal.guillotine": "Guillotine",
+  "modifier.construct_arsenal.guillotine.flavor": "Off with their heads!",
+  "modifier.construct_arsenal.guillotine.description": "Charge up, aim at a foe, and release for massive damage!"
 }
