@@ -1,0 +1,13 @@
+{
+  "tool": "construct_arsenal:scissors",
+  "text": [
+    { "text": "The scissors are a set of massive shears that can be charged to deal heavy damage to opponents. They can be found in jungle temples, and as a gift from shepherds." }
+  ],
+  "properties": [
+    "Big Shears",
+    "High Damage",
+    "Low Attack Speed",
+    "2 Upgrade Slots",
+    "1 Ability Slot"
+  ]
+}
