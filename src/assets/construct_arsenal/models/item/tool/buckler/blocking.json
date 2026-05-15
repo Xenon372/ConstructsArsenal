@@ -1,0 +1,25 @@
+{
+  "parent": "construct_arsenal:item/buckler",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 45, 135, 0 ],
+      "translation": [ 3.6, -1, -1 ],
+      "scale": [ 0.75, 0.75, 0.75 ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [ 45, 315, 0 ],
+      "translation": [ 3.6, 0, 0 ],
+      "scale": [ 0.75, 0.75, 0.75 ]
+    },
+    "firstperson_righthand": {
+      "rotation": [ 0, 0, 5 ],
+      "translation": [ -5, 0, -0.2 ],
+      "scale": [ 0.75, 0.75, 0.75 ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [ 0, 0, 5 ],
+      "translation": [ -5, 0, -0.2 ],
+      "scale": [ 0.75, 0.75, 0.75 ]
+    }
+  }
+}
