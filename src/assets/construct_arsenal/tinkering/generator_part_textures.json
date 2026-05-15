@@ -42,6 +42,27 @@
     { "path": "construct_arsenal:item/tool/buckler/rim_top",         "stat_type": "tconstruct:limb" },
     { "path": "construct_arsenal:item/tool/buckler/rim_bottom",         "stat_type": "tconstruct:grip" },
     { "path": "construct_arsenal:item/tool/buckler/core_broken",         "stat_type": "tconstruct:shield_core" },
-    { "path": "construct_arsenal:item/tool/buckler/rim_top_broken",         "stat_type": "tconstruct:limb" }
+    { "path": "construct_arsenal:item/tool/buckler/rim_top_broken",         "stat_type": "tconstruct:limb" },
+	
+    { "path": "construct_arsenal:item/tool/scissors/blade_l",         "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/scissors/blade_r",         "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/scissors/handle_l",         "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/scissors/handle_r",         "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/scissors/blade_l_broken",         "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/scissors/blade_r_broken",         "stat_type": "tconstruct:head" },
+	
+    { "path": "construct_arsenal:item/tool/scissors/large/blade_l",         "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/scissors/large/blade_l_1",         "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/scissors/large/blade_l_2",         "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/scissors/large/blade_r",         "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/scissors/large/blade_r_1",         "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/scissors/large/blade_r_2",         "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/scissors/large/handle_l",         "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/scissors/large/handle_l_2",         "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/scissors/large/handle_r",         "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/scissors/large/handle_r_1",         "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/scissors/large/handle_r_2",         "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/scissors/large/blade_l_broken",         "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/scissors/large/blade_r_broken",         "stat_type": "tconstruct:head" }
   ]
 }
