@@ -1,8 +1,6 @@
 {
   "replace": false,
   "values": [
-    "construct_arsenal:quarterstaff",
-    "construct_arsenal:helix_blade",
     "construct_arsenal:scissors"
   ]
 }
