@@ -4,7 +4,7 @@ issueTrackerURL="https://github.com/Xenon372/ConstructsArsenal/issues"
 license="MIT"
 [[mods]]
     modId="construct_arsenal"
-    version="1.0.0"
+    version="1.1.0"
     displayName="Construct's Arsenal"
     description='''
     A Thing Pack for Tinkers' Construct.
