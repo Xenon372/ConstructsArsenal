@@ -1,0 +1,14 @@
+{
+  "modifier_id": "construct_arsenal:graded",
+  "text": [
+    {
+      "text": "Submitted to the Tinkers' Card Collecting Association (TCCA) for grading."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Increases projectile damage",
+    "Maximum of 1 level",
+    "Slotless"
+  ]
+}

@@ -44,7 +44,8 @@
     "traits": [
 	{ "name": "tconstruct:blocking", "level": 1 },
 	{ "name": "tconstruct:throwing", "level": 1 },
-	{ "name": "tconstruct:returning", "level": 1 }
+	{ "name": "tconstruct:returning", "level": 1 },
+	{ "name": "construct_arsenal:far_fetched", "level": 1 }
 	]
   }
 ]}

@@ -2,10 +2,10 @@
   {
     "type": "tconstruct:part_stats",
     "parts": [
-		{ "item": "tconstruct:small_blade", "scale": 0.25 },
-		{ "item": "tconstruct:small_blade", "scale": 0.25 },
-		{ "item": "tconstruct:small_blade", "scale": 0.25 },
-		{ "item": "tconstruct:small_blade", "scale": 0.25 },
+		{ "item": "construct_arsenal:curved_blade", "scale": 0.25 },
+		{ "item": "construct_arsenal:curved_blade", "scale": 0.25 },
+		{ "item": "construct_arsenal:curved_blade", "scale": 0.25 },
+		{ "item": "construct_arsenal:curved_blade", "scale": 0.25 },
         "tconstruct:tough_handle"
       ],
     "primary_part": 0
@@ -30,9 +30,9 @@
   {
     "type": "tconstruct:multiply_stats",
     "multipliers": {
-		"tconstruct:attack_damage": 1.7,
+		"tconstruct:attack_damage": 1.6,
         "tconstruct:durability": 1.3,
-	  "tconstruct:mining_speed": 0.2
+		"tconstruct:mining_speed": 0.2
     }
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "type": "tconstruct:traits",
-    "traits": [{ "name": "tconstruct:silky_aoe_shears", "level": 1 }]
+    "traits": [{ "name": "tconstruct:silky_shears", "level": 1 }]
   },
   {
     "type": "tconstruct:tool_actions",

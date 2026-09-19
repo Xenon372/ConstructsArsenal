@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "construct_arsenal:item/small_plating_red_sand_cast"
+    }
+}

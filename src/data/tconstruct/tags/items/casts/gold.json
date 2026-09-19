@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "construct_arsenal:cardstock_cast"
+    "construct_arsenal:curved_blade_gold_cast",
+    "construct_arsenal:small_plating_gold_cast"
   ]
 }

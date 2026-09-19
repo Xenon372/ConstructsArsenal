@@ -1,0 +1,18 @@
+{
+  "level_display": "tconstruct:single_level",
+  "modules": [
+    {
+      "type": "tconstruct:stat_boost",
+      "flat": 1.0,
+      "operation": "add",
+      "stat": "tconstruct:water_inertia"
+    },
+    {
+      "type": "tconstruct:stat_boost",
+      "flat": 0.1,
+      "operation": "add",
+      "stat": "tconstruct:accuracy"
+    }
+  ],
+  "tooltip_display": "always"
+}

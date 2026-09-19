@@ -1,0 +1,13 @@
+{
+  "modifier_id": "construct_arsenal:card_sleeve",
+  "text": [
+    {
+      "text": "Increases accuracy by 0.1 and allows thrown cards to move at full speed underwater instead of 85% speed."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Slotless"
+  ]
+}

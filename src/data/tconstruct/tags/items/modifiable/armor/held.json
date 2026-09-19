@@ -1,6 +1,6 @@
 {
+  "replace": false,
   "values": [
-    "construct_arsenal:buckler",
-    "#tconstruct:modifiable/shields"
+    "construct_arsenal:longsword"
   ]
 }

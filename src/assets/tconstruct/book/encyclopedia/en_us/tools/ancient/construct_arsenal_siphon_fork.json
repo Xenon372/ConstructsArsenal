@@ -1,0 +1,17 @@
+{
+  "tool": "construct_arsenal:siphon_fork",
+  "text": [
+    { "text": "The siphon fork is a sword with the ability to leech the life out of opponents while weakening them in the process." },
+    { "text": "\n" },
+    { "text": "It can be found in desert pyramids and nether fortresses, and in the hands of husks and wither skeletons." },
+  ],
+  "properties": [
+    "+3 Attack Damage",
+    "1.5 Attack Speed",
+    "115% Attack Multiplier",
+    "105% Durability",
+	"Leeching",
+    "3 Upgrade Slots",
+    "1 Ability Slot"
+  ]
+}

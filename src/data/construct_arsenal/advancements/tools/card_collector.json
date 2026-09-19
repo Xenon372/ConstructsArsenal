@@ -1,0 +1,69 @@
+{
+  "parent": "construct_arsenal:tools/shiny_card",
+  "criteria": {
+    "has_modified": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "construct_arsenal:throwing_card"
+            ],
+            "type": "tconstruct:tool_stack",
+            "predicate": {
+              "type": "mantle:and",
+              "predicates": [
+                {
+                  "type": "tconstruct:has_modifier",
+                  "check": "all",
+                  "modifier": {
+                    "type": "tconstruct:single",
+                    "modifier": "construct_arsenal:graded"
+                  }
+                },
+                {
+                  "type": "tconstruct:has_modifier",
+                  "check": "all",
+                  "modifier": {
+                    "type": "tconstruct:single",
+                    "modifier": "construct_arsenal:card_sleeve"
+                  }
+                },
+                {
+                  "type": "tconstruct:has_modifier",
+                  "check": "all",
+                  "modifier": {
+                    "type": "tconstruct:single",
+                    "modifier": "tconstruct:shiny"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.construct_arsenal.tools.card_collector.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "construct_arsenal:throwing_card",
+      "nbt": "{Damage:0,tic_broken:0b,tic_display:1b,tic_materials:[\"tconstruct:ui_render#head\",\"tconstruct:ui_render#handle\",\"tconstruct:ui_render#extra\",\"tconstruct:ui_render#large\",\"tconstruct:ui_render#extra_large\"]}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.construct_arsenal.tools.card_collector.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_modified"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

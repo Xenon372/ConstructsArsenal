@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    { "tag": "forge:glass_panes/colorless" },
+    { "item": "tconstruct:clear_item_frame" }
+  ],
+  "tools": { "item": "construct_arsenal:throwing_card" },
+  "allow_crystal": true,
+  "result": "construct_arsenal:card_sleeve",
+  "level": 1
+}

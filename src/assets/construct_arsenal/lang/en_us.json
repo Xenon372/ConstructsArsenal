@@ -3,6 +3,7 @@
   
   "item.construct_arsenal.quarterstaff": "Quarterstaff",
   "item.construct_arsenal.quarterstaff.description": "The Quarterstaff is a defensive polearm designed for light but fast blows against far away opponents.",
+  
   "modifier.construct_arsenal.range": "Long Reach",
   "modifier.construct_arsenal.range.flavor": "Extra long handle",
   "modifier.construct_arsenal.range.description": "Tool is extra long, allowing attacking far away monsters",
@@ -13,18 +14,61 @@
   "item.construct_arsenal.throwing_card": "Throwing Card",
   "item.construct_arsenal.throwing_card.description": "Throwing Cards are light projectiles that can be thrown at a high velocity. They don't deal nearly as much damage as other options due to their size, but they're more accurate and cheaper to make.",
   
-  "pattern.construct_arsenal.card_top": "Card Base",
-  "pattern.construct_arsenal.card_bottom": "Card Backing",
+  "modifier.construct_arsenal.card_sleeve": "Card Sleeve",
+  "modifier.construct_arsenal.card_sleeve.flavor": "Sleek and protective",
+  "modifier.construct_arsenal.card_sleeve.description": "Allows the card to move freely in water and grants an accuracy bonus",
+  
+  "modifier.construct_arsenal.graded": "Graded",
+  "modifier.construct_arsenal.graded.flavor": "Evaluated by the TCCA",
+  "modifier.construct_arsenal.graded.description": "Boosts the card's projectile damage",
+  
   "item.construct_arsenal.card_top": "Card Base",
   "item.construct_arsenal.card_bottom": "Card Backing",
+  "pattern.construct_arsenal.card_top": "Card Base",
+  "pattern.construct_arsenal.card_bottom": "Card Backing",
   "item.construct_arsenal.cardstock_cast": "Cardstock Gold Pattern",
+  
+  "pattern.construct_arsenal.curved_blade": "Curved Blade",
+  "item.construct_arsenal.curved_blade": "Curved Blade",
+  "item.construct_arsenal.curved_blade_gold_cast": "Curved Blade Gold Cast",
+  "item.construct_arsenal.curved_blade_sand_cast": "Curved Blade Sand Cast",
+  "item.construct_arsenal.curved_blade_red_sand_cast": "Curved Blade Red Sand Cast",
+  
+  "pattern.construct_arsenal.small_plating": "Small Plating",
+  "item.construct_arsenal.small_plating": "Small Plating",
+  "item.construct_arsenal.small_plating_gold_cast": "Small Plating Gold Cast",
+  "item.construct_arsenal.small_plating_sand_cast": "Small Plating Sand Cast",
+  "item.construct_arsenal.small_plating_red_sand_cast": "Small Plating Red Sand Cast",
   
   "item.construct_arsenal.buckler": "Buckler",
   "item.construct_arsenal.buckler.description": "The Buckler is a light shield that can be thrown.",
+  "modifier.construct_arsenal.far_fetched": "Far-fetched",
+  "modifier.construct_arsenal.far_fetched.flavor": "Throwing shields? I find it hard to believe",
+  "modifier.construct_arsenal.far_fetched.description": "Ineffective dealing damage while held, but still effective when thrown",
   
   "item.construct_arsenal.scissors": "Scissors",
   "item.construct_arsenal.scissors.description": "The Scissors are a set of massive shears that can be charged to deal heavy damage to opponents.",
   "modifier.construct_arsenal.guillotine": "Guillotine",
   "modifier.construct_arsenal.guillotine.flavor": "Off with their heads!",
-  "modifier.construct_arsenal.guillotine.description": "Charge up, aim at a foe, and release for massive damage!"
+  "modifier.construct_arsenal.guillotine.description": "Charge up, aim at a foe, and release for massive damage!",
+  
+  "item.construct_arsenal.siphon_fork": "Siphon Fork",
+  "item.construct_arsenal.siphon_fork.description": "The Siphon Fork is an odd sword with the ability to leech the life out of opponents while weakening them in the process.",
+  "modifier.construct_arsenal.leeching": "Leeching",
+  "modifier.construct_arsenal.leeching.flavor": "Bloodsucker",
+  "modifier.construct_arsenal.leeching.description": "Heals 25% of damage dealt from critical hits and weakens opponents",
+  "modifier.construct_arsenal.leeching.lifesteal": "Lifesteal",
+  
+  "item.construct_arsenal.longsword": "Longsword",
+  "item.construct_arsenal.longsword.description": "The Longsword is a nostalgic weapon that provides some defensive properties by functioning as an extra piece of armor.",
+  "modifier.construct_arsenal.lunge": "Lunge (Unused)",
+  "modifier.construct_arsenal.lunge.flavor": "Don't forget to stretch first",
+  "modifier.construct_arsenal.lunge.description": "Charge up, aim ahead, and dash into battle! Only functions while grounded.",
+  
+  
+  "advancements.construct_arsenal.tools.shiny_card.title": "Polychrome",
+  "advancements.construct_arsenal.tools.shiny_card.description": "Hex any card",
+  
+  "advancements.construct_arsenal.tools.card_collector.title": "Mint Condition",
+  "advancements.construct_arsenal.tools.card_collector.description": "Create at least one shiny sleeved card with a 10/10 grading"
 }

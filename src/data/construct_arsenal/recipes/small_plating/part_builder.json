@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:part_builder",
+  "pattern": "construct_arsenal:small_plating",
+  "pattern_item": [
+    { "tag": "tconstruct:patterns/default" },
+    { "item": "construct_arsenal:small_plating_gold_cast" }
+  ],
+  "cost": 3,
+  "result": { "item": "construct_arsenal:small_plating" }
+}

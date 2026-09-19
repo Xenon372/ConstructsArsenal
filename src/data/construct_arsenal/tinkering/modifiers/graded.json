@@ -1,0 +1,16 @@
+{
+  "level_display": "tconstruct:single_level",
+  "modules": [
+    {
+      "type": "tconstruct:stat_boost",
+      "each_level": 1.5,
+      "operation": "add",
+      "stat": "tconstruct:projectile_damage"
+    },
+    {
+      "type": "tconstruct:rarity",
+      "rarity": "uncommon"
+    }
+  ],
+  "tooltip_display": "always"
+}

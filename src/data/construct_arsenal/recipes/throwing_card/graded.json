@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:incremental_modifier",
+  "allow_crystal": true,
+  "amount_per_item": 1,
+  "input": {
+	"tag": "forge:nuggets/gold"
+  },
+  "level": { "max": 1 },
+  "needed_per_level": 10,
+  "result": "construct_arsenal:graded",
+  "tools": { "item": "construct_arsenal:throwing_card" }
+}

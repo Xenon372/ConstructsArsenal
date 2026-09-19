@@ -1,0 +1,27 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "blade":  "construct_arsenal:item/tool/longsword/broken_blade",
+    "plating": "construct_arsenal:item/tool/longsword/broken_plating",
+    "guard":  "construct_arsenal:item/tool/longsword/guard",
+    "handle":   "construct_arsenal:item/tool/longsword/handle",
+    
+    "large_blade":  "construct_arsenal:item/tool/longsword/large/broken_blade",
+    "large_plating": "construct_arsenal:item/tool/longsword/large/broken_plating",
+    "large_guard":  "construct_arsenal:item/tool/longsword/large/guard",
+    "large_handle":   "construct_arsenal:item/tool/longsword/large/handle"
+  },
+  "modifier_roots": {
+	  "small": [ "construct_arsenal:item/tool/longsword/modifiers/" ],
+	  "large": [ "construct_arsenal:item/tool/longsword/large/modifiers/" ]
+  },
+  "large": true,
+  "large_offset": [4, -3],
+  "parts": [
+    { "name": "blade",  "index": 0 },
+    { "name": "plating",  "index": 1 },
+    { "name": "guard", "index": 2 },
+    { "name": "handle",   "index": 3 }
+  ]
+}

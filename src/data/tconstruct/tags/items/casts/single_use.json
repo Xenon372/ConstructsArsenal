@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#construct_arsenal:casts/curved_blade_single_use",
+    "#construct_arsenal:casts/small_plating_single_use"
+  ]
+}

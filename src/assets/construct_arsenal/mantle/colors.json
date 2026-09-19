@@ -1,5 +1,9 @@
 {
 	"modifier.construct_arsenal": {
-    "guillotine": "#FF2344"
+    "guillotine": "#FF2344",
+    "leeching": "#4EA800",
+    "card_sleeve": "#A8D0D9",
+    "graded": "#FFB900",
+    "lunge": "#00CEA5"
   }
 }

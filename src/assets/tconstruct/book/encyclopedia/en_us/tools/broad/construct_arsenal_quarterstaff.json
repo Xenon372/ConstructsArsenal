@@ -6,11 +6,11 @@
   "properties": [
     "+1.75 Attack Damage",
     "2.0 Attack Speed",
-    "75% Attack Modifier",
-    "110% Durability",
+    "80% Attack Modifier",
+    "225% Durability",
 	"Blocks 7.5 damage",
 	"120 Block Angle",
 	"80% Block Speed",
-	"Long Reach"
+	"Long Reach II"
   ]
 }

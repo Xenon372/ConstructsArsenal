@@ -38,6 +38,10 @@
       "model": "construct_arsenal:item/tool/scissors/pulling_3"
     },
     {
+      "predicate": { "tconstruct:charging": 1.75 },
+      "model": "construct_arsenal:item/tool/scissors/throwing"
+    },
+    {
       "predicate": { "tconstruct:charging": 2 },
       "model": "construct_arsenal:item/tool/scissors/blocking"
     },

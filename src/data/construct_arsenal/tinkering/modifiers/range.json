@@ -1,5 +1,5 @@
 {
-  "level_display": "tconstruct:single_level",
+  "level_display": "tconstruct:default",
   "tooltip_display": "always",
   "modules": [
     {
@@ -7,7 +7,7 @@
       "unique": "construct_arsenal.modifier.range",
       "attribute": "forge:reach_distance",
       "operation": "addition",
-      "each_level": 2.0,
+      "each_level": 1.0,
       "slots": [ "offhand" ]
     },
     {
@@ -15,7 +15,7 @@
       "unique": "construct_arsenal.modifier.range",
       "attribute": "forge:attack_range",
       "operation": "addition",
-      "each_level": 2.0,
+      "each_level": 1.0,
       "slots": [ "mainhand" ]
     }
   ]

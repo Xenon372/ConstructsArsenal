@@ -1,0 +1,14 @@
+{
+  "modifier_id": "construct_arsenal:card_sleeve",
+  "text": [
+    {
+      "text": "Protect your cards from wear and tear!"
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "A sleek profile allows for more accurate throws and better underwater performance",
+    "Maximum of 1 level",
+    "Slotless"
+  ]
+}

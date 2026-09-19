@@ -1,0 +1,13 @@
+{
+  "tool": "construct_arsenal:longsword",
+  "text": [
+    { "text": "Talk about a throwback." }
+  ],
+  "properties": [
+	"Moderate Damage",
+    "Slow Swinging",
+	"Moderate Armor",
+	"Nostalgic",
+	"Looks really cool when charging"
+  ]
+}

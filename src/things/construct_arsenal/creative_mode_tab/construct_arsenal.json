@@ -5,10 +5,17 @@
     "construct_arsenal:quarterstaff",
     "construct_arsenal:helix_blade",
     "construct_arsenal:buckler",
-    "construct_arsenal:throwing_card",
     "construct_arsenal:scissors",
-    "construct_arsenal:card_top",
-    "construct_arsenal:card_bottom",
-    "construct_arsenal:cardstock_cast"
+    "construct_arsenal:siphon_fork",
+    "construct_arsenal:longsword",
+    "construct_arsenal:throwing_card",
+    "construct_arsenal:curved_blade",
+    "construct_arsenal:curved_blade_gold_cast",
+    "construct_arsenal:curved_blade_sand_cast",
+    "construct_arsenal:curved_blade_red_sand_cast",
+    "construct_arsenal:small_plating",
+    "construct_arsenal:small_plating_gold_cast",
+    "construct_arsenal:small_plating_sand_cast",
+    "construct_arsenal:small_plating_red_sand_cast"
   ]
 }

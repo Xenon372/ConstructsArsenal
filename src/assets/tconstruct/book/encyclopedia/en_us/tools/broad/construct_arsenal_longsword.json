@@ -1,0 +1,14 @@
+{
+  "tool": "construct_arsenal:longsword",
+  "text": [
+    { "text": "The Longsword is a classic weapon that provides some defensive properties by functioning as an extra piece of armor." }
+  ],
+  "properties": [
+    "+3 Attack Damage",
+    "1.1 Attack Speed",
+    "130% Attack Modifier",
+    "200% Durability",
+	"Long Reach",
+    "2 Defense Slots"
+  ]
+}

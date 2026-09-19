@@ -1,0 +1,8 @@
+{
+  "type": "tconstruct:item_part_builder",
+  "pattern": "construct_arsenal:small_plating",
+  "pattern_item": {
+    "tag": "tconstruct:casts/sand"
+  },
+  "result": "construct_arsenal:small_plating_sand_cast"
+}

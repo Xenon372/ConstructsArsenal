@@ -2,8 +2,8 @@
   {
       "type": "tconstruct:part_stats",
       "parts": [
-        "construct_arsenal:card_top",
-        "construct_arsenal:card_bottom"
+        "tconstruct:arrow_head",
+        "tconstruct:fletching"
       ],
       "primary_part": 0
     },
@@ -20,7 +20,7 @@
         "tconstruct:accuracy": 0.85,
         "tconstruct:projectile_damage": 1.0,
         "tconstruct:velocity": 2.0,
-        "tconstruct:water_inertia": 0.9
+        "tconstruct:water_inertia": 0.85
       }
     },
     {

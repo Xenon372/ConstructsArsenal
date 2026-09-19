@@ -9,19 +9,19 @@
   "input_slots": [
     {
       "filter": {
-        "item": "construct_arsenal:card_top"
+        "item": "tconstruct:arrow_head"
       },
-      "icon": "construct_arsenal:card_top",
-      "translation_key": "item.construct_arsenal.card_top",
+      "icon": "tconstruct:arrow_head",
+      "translation_key": "item.tconstruct.arrow_head",
       "x": 33,
       "y": 29
     },
     {
       "filter": {
-        "item": "construct_arsenal:card_bottom"
+        "item": "tconstruct:fletching"
       },
-      "icon": "construct_arsenal:card_bottom",
-      "translation_key": "item.construct_arsenal.card_bottom",
+      "icon": "tconstruct:fletching",
+      "translation_key": "item.tconstruct.fletching",
       "x": 33,
       "y": 53
     }

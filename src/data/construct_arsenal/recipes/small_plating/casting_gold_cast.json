@@ -1,0 +1,8 @@
+{
+  "type": "tconstruct:table_casting_material",
+  "cast": {
+    "tag": "construct_arsenal:casts/small_plating_multi_use"
+  },
+  "item_cost": 3,
+  "result": "construct_arsenal:small_plating"
+}

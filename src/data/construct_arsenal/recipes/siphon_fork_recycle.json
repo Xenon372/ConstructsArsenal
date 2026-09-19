@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:part_builder_tool_recycling",
+  "parts": [
+    "construct_arsenal:curved_blade",
+    "tconstruct:tool_handle",
+    "tconstruct:tough_handle"
+  ],
+  "pattern": {
+    "item": "tconstruct:venom_bottle"
+  },
+  "tools": {
+    "item": "construct_arsenal:siphon_fork"
+  }
+}
