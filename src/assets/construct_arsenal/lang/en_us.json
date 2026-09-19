@@ -64,6 +64,10 @@
   "modifier.construct_arsenal.lunge": "Lunge (Unused)",
   "modifier.construct_arsenal.lunge.flavor": "Don't forget to stretch first",
   "modifier.construct_arsenal.lunge.description": "Charge up, aim ahead, and dash into battle! Only functions while grounded.",
+
+  "modifier.construct_arsenal.armiger": "Armiger",
+  "modifier.construct_arsenal.armiger.flavor": "It means arms-bearer",
+  "modifier.construct_arsenal.armiger.description": "Entitles the tool to an additional defense slot!",
   
   
   "advancements.construct_arsenal.tools.shiny_card.title": "Polychrome",

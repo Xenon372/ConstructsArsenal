@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    { "item": "minecraft:end_rod" }
+  ],
+  "tools": { "item": "construct_arsenal:throwing_card" },
+  "allow_crystal": true,
+  "result": "tconstruct:hover",
+  "level": 1
+}

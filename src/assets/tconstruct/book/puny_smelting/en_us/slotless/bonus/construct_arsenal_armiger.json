@@ -1,0 +1,13 @@
+{
+  "modifier_id": "construct_arsenal:armiger",
+  "text": [
+    {
+      "text": "This modifier arms your tool with the right to bear an additional defense slot."
+    }
+  ],
+  "effects": [
+    "Adds a defense slot",
+    "Single level",
+    "Slotless"
+  ]
+}
