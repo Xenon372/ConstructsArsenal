@@ -4,7 +4,12 @@
   "item.construct_arsenal.quarterstaff": "Quarterstaff",
   "item.construct_arsenal.quarterstaff.description": "The Quarterstaff is a defensive polearm designed for light but fast blows against far away opponents.",
   
-  "modifier.construct_arsenal.range": "Long Reach",
+  "modifier.construct_arsenal.range": "Long Range",
+  "modifier.construct_arsenal.range.1": "Long Range",
+  "modifier.construct_arsenal.range.2": "Longer Range",
+  "modifier.construct_arsenal.range.3": "Longest Range",
+  "modifier.construct_arsenal.range.4": "Longester Range",
+  "modifier.construct_arsenal.range.5": "Longestest Range",
   "modifier.construct_arsenal.range.flavor": "Extra long handle",
   "modifier.construct_arsenal.range.description": "Tool is extra long, allowing attacking far away monsters",
   
@@ -51,13 +56,6 @@
   "modifier.construct_arsenal.guillotine": "Guillotine",
   "modifier.construct_arsenal.guillotine.flavor": "Off with their heads!",
   "modifier.construct_arsenal.guillotine.description": "Charge up, aim at a foe, and release for massive damage!",
-  
-  "item.construct_arsenal.siphon_fork": "Siphon Fork",
-  "item.construct_arsenal.siphon_fork.description": "The Siphon Fork is an odd sword with the ability to leech the life out of opponents while weakening them in the process.",
-  "modifier.construct_arsenal.leeching": "Leeching",
-  "modifier.construct_arsenal.leeching.flavor": "Bloodsucker",
-  "modifier.construct_arsenal.leeching.description": "Heals 25% of damage dealt from critical hits and weakens opponents",
-  "modifier.construct_arsenal.leeching.lifesteal": "Lifesteal",
   
   "item.construct_arsenal.longsword": "Longsword",
   "item.construct_arsenal.longsword.description": "The Longsword is a nostalgic weapon that provides some defensive properties by functioning as an extra piece of armor.",

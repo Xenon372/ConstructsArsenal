@@ -1,22 +1,19 @@
 {
-  "level_display": "tconstruct:default",
-  "tooltip_display": "always",
-  "modules": [
-    {
-      "type": "tconstruct:attribute",
-      "unique": "construct_arsenal.modifier.range",
-      "attribute": "forge:reach_distance",
-      "operation": "addition",
-      "each_level": 1.0,
-      "slots": [ "offhand" ]
-    },
+  "level_display": {
+    "type": "tconstruct:unique",
+    "first_unique": false,
+    "unique_until": 5
+  },
+"modules": [
     {
       "type": "tconstruct:attribute",
       "unique": "construct_arsenal.modifier.range",
       "attribute": "forge:attack_range",
       "operation": "addition",
-      "each_level": 1.0,
+      "flat": 0.5,
+      "each_level": 0.5,
       "slots": [ "mainhand" ]
     }
-  ]
+  ],
+  "tooltip_display": "always"
 }

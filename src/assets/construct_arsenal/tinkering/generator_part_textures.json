@@ -74,11 +74,6 @@
     { "path": "construct_arsenal:item/tool/scissors/large/blade_r_broken",         "stat_type": "tconstruct:head" },
 	
 	
-    { "path": "construct_arsenal:item/tool/siphon_fork/blade",         "stat_type": "tconstruct:head" },
-    { "path": "construct_arsenal:item/tool/siphon_fork/guard",         "stat_type": "tconstruct:handle" },
-    { "path": "construct_arsenal:item/tool/siphon_fork/handle",         "stat_type": "tconstruct:handle" },
-	
-	
     { "path": "construct_arsenal:item/tool/longsword/blade",         "stat_type": "tconstruct:head" },
     { "path": "construct_arsenal:item/tool/longsword/plating",         "stat_type": "tconstruct:plating_helmet" },
     { "path": "construct_arsenal:item/tool/longsword/guard",         "stat_type": "tconstruct:handle" },
