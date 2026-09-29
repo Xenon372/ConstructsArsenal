@@ -1,7 +1,7 @@
 {
   "type": "tconstruct:table_casting_material",
   "cast": {
-    "tag": "construct_arsenal:casts/curved_blade_multi_use"
+    "tag": "construct_arsenal:casts/curved_blade_single_use"
   },
   "cast_consumed": true,
   "item_cost": 3,

@@ -15,5 +15,5 @@
       "slots": [ "mainhand" ]
     }
   ],
-  "tooltip_display": "always"
+  "show_in_tooltips": "always"
 }

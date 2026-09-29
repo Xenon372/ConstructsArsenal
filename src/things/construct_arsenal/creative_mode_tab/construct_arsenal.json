@@ -1,5 +1,17 @@
 {
-  "icon": "construct_arsenal:helix_blade",
+  "icon": {
+    "item": "construct_arsenal:helix_blade",
+    "nbt": {
+      "tic_display": true,
+      "tic_materials": [
+        "tconstruct:ui_render#head",
+        "tconstruct:ui_render#handle",
+        "tconstruct:ui_render#extra",
+        "tconstruct:ui_render#large",
+        "tconstruct:ui_render#extra_large"
+      ]
+    }
+  },
     "translation_key": "itemGroup.construct_arsenal.construct_arsenal",
 	"items": [
     "construct_arsenal:quarterstaff",

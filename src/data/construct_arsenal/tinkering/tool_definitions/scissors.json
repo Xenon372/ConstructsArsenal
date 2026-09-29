@@ -23,7 +23,7 @@
     "hooks": [
 		"tconstruct:rebalanced_trait"
     ],
-    "material_index": 0,
+    "material_index": 1,
     "stat_type": "tconstruct:head"
   },
   {
@@ -51,7 +51,7 @@
   {
     "type": "tconstruct:traits",
     "traits": [
-	{ "name": "tconstruct:shears", "level": 1 },
+	{ "name": "tconstruct:shears", "level": 2 },
 	{ "name": "construct_arsenal:guillotine", "level": 1 },
 	{ "name": "tconstruct:severing", "level": 3 }
 	]

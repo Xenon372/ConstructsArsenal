@@ -59,12 +59,9 @@
   
   "item.construct_arsenal.longsword": "Longsword",
   "item.construct_arsenal.longsword.description": "The Longsword is a nostalgic weapon that provides some defensive properties by functioning as an extra piece of armor.",
-  "modifier.construct_arsenal.lunge": "Lunge (Unused)",
-  "modifier.construct_arsenal.lunge.flavor": "Don't forget to stretch first",
-  "modifier.construct_arsenal.lunge.description": "Charge up, aim ahead, and dash into battle! Only functions while grounded.",
 
   "modifier.construct_arsenal.armiger": "Armiger",
-  "modifier.construct_arsenal.armiger.flavor": "It means arms-bearer",
+  "modifier.construct_arsenal.armiger.flavor": "It means arms-bearer!",
   "modifier.construct_arsenal.armiger.description": "Entitles the tool to an additional defense slot!",
   
   

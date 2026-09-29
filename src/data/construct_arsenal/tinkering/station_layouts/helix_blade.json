@@ -15,7 +15,7 @@
       },
       "icon": "construct_arsenal:curved_blade",
       "translation_key": "item.construct_arsenal.curved_blade",
-      "x": 30,
+      "x": 28,
       "y": 24
     },
     {
@@ -24,7 +24,7 @@
       },
       "icon": "construct_arsenal:curved_blade",
       "translation_key": "item.construct_arsenal.curved_blade",
-      "x": 48,
+      "x": 50,
       "y": 24
     },
     {
@@ -33,8 +33,8 @@
       },
       "icon": "construct_arsenal:curved_blade",
       "translation_key": "item.construct_arsenal.curved_blade",
-      "x": 30,
-      "y": 42
+      "x": 28,
+      "y": 46
     },
 	{
       "filter": {
@@ -42,8 +42,8 @@
       },
       "icon": "construct_arsenal:curved_blade",
       "translation_key": "item.construct_arsenal.curved_blade",
-      "x": 48,
-      "y": 42
+      "x": 50,
+      "y": 46
     },
     {
       "filter": {
@@ -52,7 +52,7 @@
       "icon": "tconstruct:tough_handle",
       "translation_key": "item.tconstruct.tough_handle",
       "x": 12,
-      "y": 60
+      "y": 66
     }
   ]
 }
