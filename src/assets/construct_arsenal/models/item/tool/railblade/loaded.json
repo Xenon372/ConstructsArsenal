@@ -1,0 +1,31 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "construct_arsenal:item/tool/railblade/display_forward",
+  "textures": {
+    "blade":  "construct_arsenal:item/tool/railblade/blade",
+    "barrel": "construct_arsenal:item/tool/railblade/barrel",
+    "cylinder":  "construct_arsenal:item/tool/railblade/cylinder",
+    "stock":   "construct_arsenal:item/tool/railblade/stock",
+    "ammo":   "construct_arsenal:item/tool/railblade/arrow",
+
+    "large_blade":  "construct_arsenal:item/tool/railblade/large/blade",
+    "large_barrel": "construct_arsenal:item/tool/railblade/large/barrel",
+    "large_cylinder":  "construct_arsenal:item/tool/railblade/large/cylinder",
+    "large_stock":   "construct_arsenal:item/tool/railblade/large/stock",
+    "large_ammo":   "construct_arsenal:item/tool/railblade/large/arrow"
+  },
+  "modifier_maps": [ "construct_arsenal:railblade" ],
+  "modifier_roots": {
+    "small": [ "construct_arsenal:item/tool/railblade/modifiers/" ],
+    "large": [ "construct_arsenal:item/tool/railblade/large/modifiers/" ]
+  },
+  "large": true,
+  "large_offset": [-9, 7],
+  "parts": [
+    { "name": "blade",  "index": 0 },
+    { "name": "barrel",  "index": 1 },
+    { "name": "cylinder", "index": 2 },
+    { "name": "stock",   "index": 3 },
+    { "name": "ammo" }
+  ]
+}

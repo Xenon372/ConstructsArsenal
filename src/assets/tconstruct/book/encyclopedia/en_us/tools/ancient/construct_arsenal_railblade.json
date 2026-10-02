@@ -1,0 +1,17 @@
+{
+  "tool": "construct_arsenal:railblade",
+  "text": [
+    { "text": "The Railblade is a peculiar weapon that functions as both a sword and a crossbow. It gains bonus critical hit damage when fired." },
+    { "text": "\n" },
+    { "text": "It can be obtained from vindicators, pillager outposts, and gifted from toolsmiths after a raid." }
+  ],
+  "properties": [
+    "+2 Attack Damage",
+    "1.0 Attack Speed",
+    "125% Attack Multiplier",
+    "300% Durability",
+	"Shear Trigger",
+    "2 Upgrade Slots",
+    "1 Ability Slot"
+  ]
+}

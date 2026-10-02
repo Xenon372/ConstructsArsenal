@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "construct_arsenal:helix_blade",
-    "construct_arsenal:longsword"
+    "construct_arsenal:longsword",
+    "construct_arsenal:railblade"
   ]
 }

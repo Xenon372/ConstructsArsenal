@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "construct_arsenal:scissors"
+    "construct_arsenal:scissors",
+    "construct_arsenal:railblade"
   ]
 }

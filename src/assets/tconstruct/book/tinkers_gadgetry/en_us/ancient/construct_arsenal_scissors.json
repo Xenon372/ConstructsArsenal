@@ -1,7 +1,7 @@
 {
   "tool": "construct_arsenal:scissors",
   "text": [
-    { "text": "The scissors are a set of massive shears that can be charged to deal heavy damage to opponents. They can be found in jungle temples, and as a gift from shepherds." }
+    { "text": "The scissors are a set of massive shears that can be charged to deal heavy damage to opponents. They can be found in jungles and as a gift from villagers." }
   ],
   "properties": [
     "Big Shears",

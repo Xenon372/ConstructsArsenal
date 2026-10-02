@@ -3,7 +3,7 @@
     "type": "tconstruct:part_stats",
     "parts": [
 		"tconstruct:broad_blade",
-		{ "item": "construct_arsenal:small_plating", "scale": 2.0 },
+		"construct_arsenal:small_plating",
 		{ "item": "tconstruct:tough_handle", "scale": 0.5 },
 		{ "item": "tconstruct:tough_handle", "scale": 0.5 }
       ],

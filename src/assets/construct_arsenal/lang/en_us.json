@@ -27,12 +27,6 @@
   "modifier.construct_arsenal.graded.flavor": "Evaluated by the TCCA",
   "modifier.construct_arsenal.graded.description": "Boosts the card's projectile damage",
   
-  "item.construct_arsenal.card_top": "Card Base",
-  "item.construct_arsenal.card_bottom": "Card Backing",
-  "pattern.construct_arsenal.card_top": "Card Base",
-  "pattern.construct_arsenal.card_bottom": "Card Backing",
-  "item.construct_arsenal.cardstock_cast": "Cardstock Gold Pattern",
-  
   "pattern.construct_arsenal.curved_blade": "Curved Blade",
   "item.construct_arsenal.curved_blade": "Curved Blade",
   "item.construct_arsenal.curved_blade_gold_cast": "Curved Blade Gold Cast",
@@ -63,6 +57,13 @@
   "modifier.construct_arsenal.armiger": "Armiger",
   "modifier.construct_arsenal.armiger.flavor": "It means arms-bearer!",
   "modifier.construct_arsenal.armiger.description": "Entitles the tool to an additional defense slot!",
+
+  "item.construct_arsenal.railblade": "Railblade",
+  "item.construct_arsenal.railblade.description": "The Railblade is a peculiar weapon that functions as both a sword and crossbow.",
+
+  "modifier.construct_arsenal.shear_trigger": "Shear Trigger",
+  "modifier.construct_arsenal.shear_trigger.flavor": "Not quite a rough divide",
+  "modifier.construct_arsenal.shear_trigger.description": "Firing the tool boosts critical hit damage",
   
   
   "advancements.construct_arsenal.tools.shiny_card.title": "Polychrome",

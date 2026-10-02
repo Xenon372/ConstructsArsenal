@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "construct_arsenal:buckler"
+    "construct_arsenal:buckler",
+    "construct_arsenal:railblade"
   ]
 }

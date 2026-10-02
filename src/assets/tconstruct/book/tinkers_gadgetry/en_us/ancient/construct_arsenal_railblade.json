@@ -1,0 +1,13 @@
+{
+  "tool": "construct_arsenal:railblade",
+  "text": [
+    { "text": "The Railblade is a peculiar weapon that gets stronger when fired. It can be obtained from illagers, and as a gift from villagers." }
+  ],
+  "properties": [
+    "Medium Damage",
+    "Medium Attack Speed",
+	"Shear Trigger",
+    "2 Upgrade Slots",
+    "1 Ability Slot"
+  ]
+}

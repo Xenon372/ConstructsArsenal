@@ -1,0 +1,50 @@
+{
+  "level_display": "tconstruct:no_levels",
+  "modules": [
+    {
+      "type": "tconstruct:capacity_bar",
+      "flat": 8
+    },
+    {
+      "type": "tconstruct:launch_capacity",
+      "grant": {
+        "flat": 1
+      },
+      "run_before": false,
+      "tool": {
+        "type": "tconstruct:has_persistent_key",
+        "key": "tconstruct:crossbow_ammo"
+      }
+    },
+    {
+      "type": "tconstruct:melee_capacity",
+      "grant": {
+        "flat": -1
+      }
+    },
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "tconstruct:player.critical_damage",
+      "formula": [
+        "$charge",
+        1.0,
+        "min",
+        0.1,
+        "*"
+      ],
+      "tooltip_style": "percent",
+      "operation": "multiply_total",
+      "slots": [
+        "mainhand"
+      ],
+      "variables": {
+        "charge": {
+          "type": "tconstruct:mod_data",
+          "key": "construct_arsenal:shear_trigger",
+          "source": "persistent"
+        }
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}
