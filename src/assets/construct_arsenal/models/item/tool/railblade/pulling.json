@@ -24,31 +24,5 @@
     { "name": "barrel",  "index": 1 },
     { "name": "cylinder", "index": 2 },
     { "name": "stock",   "index": 3 }
-  ],
-  "overrides": [
-    {
-      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 0.05 },
-      "model": "construct_arsenal:item/tool/railblade/pulling"
-    },
-    {
-      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 1.0 },
-      "model": "construct_arsenal:item/tool/railblade/loaded"
-    },
-	{
-	  "predicate": { "tconstruct:charging": 2 },
-      "model": "construct_arsenal:item/tool/railblade/blocking"
-	},
-    {
-      "predicate": { "tconstruct:broken": 1 },
-      "model": "construct_arsenal:item/tool/railblade/broken"
-    },
-    {
-      "predicate": { "tconstruct:ammo": 1 },
-      "model": "construct_arsenal:item/tool/railblade/loaded"
-    },
-    {
-      "predicate": { "tconstruct:ammo": 2 },
-      "model": "construct_arsenal:item/tool/railblade/firework"
-    }
   ]
 }

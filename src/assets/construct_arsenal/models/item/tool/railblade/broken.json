@@ -1,6 +1,6 @@
 {
   "loader": "tconstruct:tool",
-  "parent": "construct_arsenal:item/tool/railblade/display",
+  "parent": "construct_arsenal:item/tool/railblade/display_rest",
   "textures": {
     "blade":  "construct_arsenal:item/tool/railblade/blade_broken",
     "barrel": "construct_arsenal:item/tool/railblade/barrel",
