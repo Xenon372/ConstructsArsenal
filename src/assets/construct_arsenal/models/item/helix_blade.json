@@ -1,6 +1,6 @@
 {
   "loader": "tconstruct:tool",
-  "parent": "forge:item/default-tool",
+  "parent": "construct_arsenal:item/tool/base/long",
   "textures": {
     "blade_tl":  "construct_arsenal:item/tool/helix_blade/blade_tl",
     "blade_tr": "construct_arsenal:item/tool/helix_blade/blade_tr",

@@ -27,12 +27,8 @@
   ],
   "overrides": [
     {
-      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 0.05 },
+      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 0.01 },
       "model": "construct_arsenal:item/tool/railblade/pulling"
-    },
-    {
-      "predicate": { "tconstruct:charging": 1, "tconstruct:charge": 1.0 },
-      "model": "construct_arsenal:item/tool/railblade/pulling_loaded"
     },
 	{
 	  "predicate": { "tconstruct:charging": 2 },

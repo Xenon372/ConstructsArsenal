@@ -1,5 +1,5 @@
 {
-  "parent": "forge:item/default",
+  "parent": "construct_arsenal:item/tool/base/long",
   "gui_light": "front",
   "display": {
     "thirdperson_righthand": {

@@ -1,0 +1,10 @@
+{
+  "parent": "forge:item/default-tool",
+  "display": {
+    "tconstruct:thrown": {
+      "rotation": [ 0, 180, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "translation": [ 7, -7, 0 ]
+    }
+  }
+}

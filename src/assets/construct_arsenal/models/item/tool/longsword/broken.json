@@ -1,6 +1,6 @@
 {
   "loader": "tconstruct:tool",
-  "parent": "forge:item/default-tool",
+  "parent": "construct_arsenal:item/tool/base/long",
   "textures": {
     "blade":  "construct_arsenal:item/tool/longsword/broken_blade",
     "plating": "construct_arsenal:item/tool/longsword/broken_plating",
