@@ -12,7 +12,7 @@
       "operation": "addition",
       "flat": 0.5,
       "each_level": 0.5,
-      "slots": [ "mainhand" ]
+      "slots": [ "mainhand", "offhand" ]
     }
   ],
   "show_in_tooltips": "always"
