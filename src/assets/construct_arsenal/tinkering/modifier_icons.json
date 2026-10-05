@@ -1,10 +1,5 @@
 {
   "tconstruct:hover": "construct_arsenal:gui/modifiers/ranged/hover",
   "construct_arsenal:card_sleeve": "construct_arsenal:gui/modifiers/ranged/card_sleeve",
-  "construct_arsenal:graded": [
-    "construct_arsenal:item/tool/ammo/card_top",
-    "construct_arsenal:item/tool/ammo/card_bottom",
-    "construct_arsenal:gui/modifiers/ranged/star"
-  ],
   "construct_arsenal:armiger":    ["minecraft:item/iron_sword", "tconstruct:gui/modifiers/plus"]
 }

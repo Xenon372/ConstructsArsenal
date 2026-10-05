@@ -2,7 +2,6 @@
   "replace": false,
   "values": [
     "tconstruct:hover",
-    "construct_arsenal:card_sleeve",
-    "construct_arsenal:graded"
+    "construct_arsenal:card_sleeve"
   ]
 }

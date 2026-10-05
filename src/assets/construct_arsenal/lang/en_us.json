@@ -23,10 +23,6 @@
   "modifier.construct_arsenal.card_sleeve.flavor": "Sleek and protective",
   "modifier.construct_arsenal.card_sleeve.description": "Allows the card to move freely in water and grants an accuracy bonus",
   
-  "modifier.construct_arsenal.graded": "Graded",
-  "modifier.construct_arsenal.graded.flavor": "Evaluated by the TCCA",
-  "modifier.construct_arsenal.graded.description": "Boosts the card's projectile damage",
-  
   "pattern.construct_arsenal.curved_blade": "Curved Blade",
   "item.construct_arsenal.curved_blade": "Curved Blade",
   "item.construct_arsenal.curved_blade_gold_cast": "Curved Blade Gold Cast",
@@ -67,8 +63,5 @@
   
   
   "advancements.construct_arsenal.tools.shiny_card.title": "Polychrome",
-  "advancements.construct_arsenal.tools.shiny_card.description": "Hex any card",
-  
-  "advancements.construct_arsenal.tools.card_collector.title": "Mint Condition",
-  "advancements.construct_arsenal.tools.card_collector.description": "Create at least one shiny sleeved card with a 10/10 grading"
+  "advancements.construct_arsenal.tools.shiny_card.description": "Hex any card"
 }
