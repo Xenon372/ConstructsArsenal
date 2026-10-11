@@ -89,10 +89,10 @@
     { "path": "construct_arsenal:item/tool/longsword/large/broken_plating",  "stat_type": "tconstruct:plating_helmet" },
 
 
-    { "path": "construct_arsenal:item/tool/railblade/blade",                            "stat_type": "tconstruct:head" },
-    { "path": "construct_arsenal:item/tool/railblade/barrel",                           "stat_type": "tconstruct:limb" },
-    { "path": "construct_arsenal:item/tool/railblade/cylinder",                         "stat_type": "tconstruct:handle" },
-    { "path": "construct_arsenal:item/tool/railblade/stock",                            "stat_type": "tconstruct:grip" },
+    { "path": "construct_arsenal:item/tool/railblade/blade",          "stat_type": "tconstruct:head" },
+    { "path": "construct_arsenal:item/tool/railblade/barrel",         "stat_type": "tconstruct:limb" },
+    { "path": "construct_arsenal:item/tool/railblade/cylinder",       "stat_type": "tconstruct:handle" },
+    { "path": "construct_arsenal:item/tool/railblade/stock",          "stat_type": "tconstruct:grip" },
     { "path": "construct_arsenal:item/tool/railblade/blade_broken",   "stat_type": "tconstruct:head" },
 
     { "path": "construct_arsenal:item/tool/railblade/large/blade",         "stat_type": "tconstruct:head" },
