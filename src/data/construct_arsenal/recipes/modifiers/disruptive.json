@@ -1,0 +1,19 @@
+{
+  "type": "tconstruct:incremental_modifier",
+  "allow_crystal": true,
+  "amount_per_item": 1,
+  "input": {
+    "item": "minecraft:ender_pearl"
+  },
+  "level": {
+    "max": 5
+  },
+  "needed_per_level": 8,
+  "result": "construct_arsenal:disruptive",
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/melee"
+  }
+}

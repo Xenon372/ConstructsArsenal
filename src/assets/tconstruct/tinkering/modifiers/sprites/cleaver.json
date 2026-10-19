@@ -1,0 +1,8 @@
+{
+  "modifiers": {
+    "construct_arsenal:disruptive": {
+      "texture": "tconstruct:item/tool/cleaver/modifiers/construct_arsenal_disruptive",
+      "texture_large": "tconstruct:item/tool/cleaver/large/modifiers/construct_arsenal_disruptive"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "modifiers": {
+    "construct_arsenal:disruptive": {
+      "texture": "tconstruct:item/tool/broad_axe/modifiers/construct_arsenal_disruptive",
+      "texture_large": "tconstruct:item/tool/broad_axe/large/modifiers/construct_arsenal_disruptive"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "modifiers": {
+    "construct_arsenal:disruptive": {
+      "texture": "tconstruct:item/tool/sledge_hammer/modifiers/construct_arsenal_disruptive",
+      "texture_large": "tconstruct:item/tool/sledge_hammer/large/modifiers/construct_arsenal_disruptive"
+    }
+  }
+}

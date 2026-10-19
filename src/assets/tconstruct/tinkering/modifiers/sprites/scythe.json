@@ -1,0 +1,7 @@
+{
+  "modifiers": {
+    "construct_arsenal:disruptive": {
+      "texture_large": "tconstruct:item/tool/scythe/large/modifiers/construct_arsenal_disruptive"
+    }
+  }
+}

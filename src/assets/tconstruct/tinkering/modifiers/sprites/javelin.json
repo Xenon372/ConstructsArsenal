@@ -1,0 +1,8 @@
+{
+  "modifiers": {
+    "construct_arsenal:disruptive": {
+      "texture": "tconstruct:item/tool/javelin/modifiers/construct_arsenal_disruptive",
+      "texture_large": "tconstruct:item/tool/javelin/large/modifiers/construct_arsenal_disruptive"
+    }
+  }
+}

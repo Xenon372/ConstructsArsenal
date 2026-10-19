@@ -1,6 +1,11 @@
 {
   "itemGroup.construct_arsenal.construct_arsenal": "Construct's Arsenal",
-  
+
+  "modifier.construct_arsenal.disruptive": "Disruptive",
+  "modifier.construct_arsenal.disruptive.flavor": "Very distracting",
+  "modifier.construct_arsenal.disruptive.description": "Tool does bonus damage against creatures from the End!",
+  "modifier.construct_arsenal.disruptive.attack_damage": "Disruptive Damage",
+
   "item.construct_arsenal.quarterstaff": "Quarterstaff",
   "item.construct_arsenal.quarterstaff.description": "The Quarterstaff is a defensive polearm designed for light but fast blows against far away opponents.",
   

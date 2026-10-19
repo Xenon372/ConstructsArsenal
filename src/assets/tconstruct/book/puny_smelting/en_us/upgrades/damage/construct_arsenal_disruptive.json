@@ -1,0 +1,13 @@
+{
+  "modifier_id": "construct_arsenal:disruptive",
+  "text": [
+    {
+      "text": "Who would've thought that hitting endermen with their own pearls would hurt so much?"
+    }
+  ],
+  "effects": [
+    "Increases damage to mobs from the End",
+    "Multiple levels, each level further increases damage",
+    "Requires 1 upgrade slot per level"
+  ]
+}

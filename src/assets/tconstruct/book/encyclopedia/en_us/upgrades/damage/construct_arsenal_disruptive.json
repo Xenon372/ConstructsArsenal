@@ -1,0 +1,14 @@
+{
+  "modifier_id": "construct_arsenal:disruptive",
+  "text": [
+    {
+      "text": "Grants +2 damage against End mobs per level."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
+  ]
+}

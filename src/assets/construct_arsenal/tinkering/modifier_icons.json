@@ -1,5 +1,8 @@
 {
   "tconstruct:hover": "construct_arsenal:gui/modifiers/ranged/hover",
   "construct_arsenal:card_sleeve": "construct_arsenal:gui/modifiers/ranged/card_sleeve",
-  "construct_arsenal:armiger":    ["minecraft:item/iron_sword", "tconstruct:gui/modifiers/plus"]
+
+  "construct_arsenal:armiger":    ["minecraft:item/iron_sword", "tconstruct:gui/modifiers/plus"],
+
+  "construct_arsenal:disruptive": "construct_arsenal:gui/modifiers/melee/disruptive"
 }
