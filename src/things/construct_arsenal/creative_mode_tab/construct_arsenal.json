@@ -1,6 +1,7 @@
 {
   "icon": {
     "item": "construct_arsenal:helix_blade",
+    "after": ["tconstruct:world"],
     "nbt": {
       "tic_display": true,
       "tic_materials": [
