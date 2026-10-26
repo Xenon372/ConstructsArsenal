@@ -2,7 +2,7 @@
   "modifier_id": "construct_arsenal:disruptive",
   "text": [
     {
-      "text": "Grants +2 damage against End mobs per level."
+      "text": "Grants +2 damage per level against mobs from the End."
     }
   ],
   "more_text_space": true,
