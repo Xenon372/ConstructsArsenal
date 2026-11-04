@@ -2,6 +2,10 @@
   "replace": false,
   "values": [
     "construct_arsenal:throwing_card",
-	"construct_arsenal:buckler"
+	"construct_arsenal:buckler",
+    {
+      "id": "construct_arsenal:diadem",
+      "required": false
+    }
   ]
 }

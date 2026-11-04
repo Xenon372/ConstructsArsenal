@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "constructs_casting"
+    }
+  ],
+  "entity": "irons_spellbooks:necromancer",
+  "equip": {
+    "chance": 0.075,
+    "materials": [
+      {
+        "type": "tconstruct:ancient"
+      },
+      {
+        "type": "tconstruct:ancient"
+      }
+    ],
+    "priority": 100,
+    "slot": "head",
+    "tool": "construct_arsenal:diadem"
+  }
+}

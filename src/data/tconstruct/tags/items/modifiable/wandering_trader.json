@@ -2,6 +2,10 @@
   "replace": false,
   "values": [
     "construct_arsenal:scissors",
-    "construct_arsenal:railblade"
+    "construct_arsenal:railblade",
+    {
+      "id": "construct_arsenal:diadem",
+      "required": false
+    }
   ]
 }

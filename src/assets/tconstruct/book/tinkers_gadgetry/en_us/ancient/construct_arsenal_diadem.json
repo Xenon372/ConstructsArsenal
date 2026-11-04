@@ -1,0 +1,15 @@
+{
+  "tool": "construct_arsenal:diadem",
+  "text": [
+    { "text": "The Ruler's Diadem is an old crown that can be imbued with a spell. It can be obtained from necromancers, and found in citadels." }
+  ],
+  "properties": [
+    "Low Armor",
+    "Medium Durability",
+	"Imbued",
+    "2 Upgrade Slots",
+    "1 Defense Slot",
+    "1 Ability Slot",
+    "2 Boon Slots"
+  ]
+}

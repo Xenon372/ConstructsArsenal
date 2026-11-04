@@ -1,0 +1,14 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default",
+  "textures": {
+    "crown": "construct_arsenal:item/tool/armor/diadem/crown_broken",
+    "gem": "construct_arsenal:item/tool/armor/diadem/gem"
+  },
+  "parts": [
+    { "name": "crown", "index": 0 },
+    { "name": "gem", "index": 1 }
+  ],
+  "modifier_maps": [ "construct_arsenal:diadem" ],
+  "modifier_roots": [ "construct_arsenal:item/tool/diadem/modifiers/" ]
+}

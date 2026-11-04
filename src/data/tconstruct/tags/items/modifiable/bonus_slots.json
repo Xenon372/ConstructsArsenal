@@ -6,6 +6,10 @@
 	"construct_arsenal:buckler",
     "construct_arsenal:scissors",
     "construct_arsenal:longsword",
-    "construct_arsenal:railblade"
+    "construct_arsenal:railblade",
+    {
+      "id": "construct_arsenal:diadem",
+      "required": false
+    }
   ]
 }

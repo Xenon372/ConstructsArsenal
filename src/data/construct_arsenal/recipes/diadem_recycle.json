@@ -1,0 +1,19 @@
+{
+  "type": "tconstruct:part_builder_tool_recycling",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "constructs_casting"
+    }
+  ],
+  "parts": [
+    "tconstruct:helmet_plating",
+    "constructs_casting:faceted_gem"
+  ],
+  "pattern": {
+    "item": "tconstruct:venom_bottle"
+  },
+  "tools": {
+    "item": "construct_arsenal:diadem"
+  }
+}

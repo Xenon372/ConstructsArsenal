@@ -1,0 +1,45 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "constructs_casting"
+    }
+  ],
+  "parent": "tconstruct:world/ancient_tools",
+  "criteria": {
+    "diadem": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "construct_arsenal:diadem"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.construct_arsenal.world.diadem.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "construct_arsenal:diadem",
+      "nbt": "{Damage:0,tic_broken:0b,tic_display:1b,tic_materials:[\"tconstruct:ui_render#head\",\"tconstruct:ui_render#handle\",\"tconstruct:ui_render#extra\",\"tconstruct:ui_render#large\",\"tconstruct:ui_render#extra_large\"]}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.construct_arsenal.world.diadem.title"
+    }
+  },
+  "requirements": [
+    [
+      "diadem"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

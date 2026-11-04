@@ -1,7 +1,7 @@
 {
   "entity": "minecraft:vindicator",
   "equip": {
-    "chance": 0.05,
+    "chance": 0.075,
     "materials": [
       {
         "type": "tconstruct:ancient"

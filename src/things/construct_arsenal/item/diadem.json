@@ -1,0 +1,15 @@
+{
+  "conditions": [
+    {
+      "type": "mod_loaded",
+      "modid": "constructs_casting"
+    }
+  ],
+  "type": "tconstruct:multilayer_armor",
+  "slot": "helmet",
+  "equip_sound": "item.armor.equip_diamond",
+  "max_stack_size": 1,
+  "model_name": "construct_arsenal:diadem",
+  "group": "construct_arsenal:construct_arsenal",
+  "color_handler": "tconstruct:tool"
+}

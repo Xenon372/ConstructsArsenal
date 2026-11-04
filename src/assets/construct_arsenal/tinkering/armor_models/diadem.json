@@ -1,0 +1,24 @@
+{
+  "layers": [
+    {
+      "type": "tconstruct:material",
+      "index": 0,
+      "prefix": "construct_arsenal:diadem/crown_"
+    },
+    {
+      "type": "tconstruct:first_present",
+      "options": [
+        {
+          "type": "tconstruct:dyed",
+          "modifier": "tconstruct:dyed",
+          "prefix": "construct_arsenal:diadem/gem_"
+        },
+        {
+          "type": "tconstruct:material",
+          "index": 1,
+          "prefix": "construct_arsenal:diadem/gem_"
+        }
+      ]
+    }
+  ]
+}

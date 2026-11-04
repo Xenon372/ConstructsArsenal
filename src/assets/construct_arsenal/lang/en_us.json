@@ -49,7 +49,7 @@
   "item.construct_arsenal.scissors": "Scissors",
   "item.construct_arsenal.scissors.description": "The Scissors are a set of massive shears that can be charged to deal heavy damage to opponents.",
   "modifier.construct_arsenal.guillotine": "Guillotine",
-  "modifier.construct_arsenal.guillotine.flavor": "Off with their heads!",
+  "modifier.construct_arsenal.guillotine.flavor": "I'll split you in two!",
   "modifier.construct_arsenal.guillotine.description": "Charge up, aim at a foe, and release for massive damage!",
   
   "item.construct_arsenal.longsword": "Longsword",
@@ -65,8 +65,13 @@
   "modifier.construct_arsenal.shear_trigger": "Shear Trigger",
   "modifier.construct_arsenal.shear_trigger.flavor": "Not quite a rough divide",
   "modifier.construct_arsenal.shear_trigger.description": "Firing the tool boosts critical hit damage",
-  
-  
+
+  "item.construct_arsenal.diadem": "Ruler's Diadem",
+  "item.construct_arsenal.diadem.description": "The Ruler's Diadem is an old crown that can be imbued with a spell.",
+
   "advancements.construct_arsenal.tools.shiny_card.title": "Polychrome",
-  "advancements.construct_arsenal.tools.shiny_card.description": "Hex any card"
+  "advancements.construct_arsenal.tools.shiny_card.description": "Hex any card",
+
+  "advancements.construct_arsenal.world.diadem.title": "A Crown of Swords",
+  "advancements.construct_arsenal.world.diadem.description": "Acquire a Ruler's Diadem"
 }
