@@ -1,0 +1,14 @@
+{
+  "tool": "construct_arsenal:brigandine_greaves",
+  "text": [
+    { "text": "Brigandine Greaves are defensive leggings, with medium protection and an ability slot but no upgrade slots." }
+  ],
+  "properties": [
+    "120% Durability",
+    "0.5 Toughness",
+    "0 Upgrade Slots",
+    "3 Defense Slots",
+    "1 Ability Slot",
+    "3 Material Traits"
+  ]
+}

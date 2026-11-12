@@ -13,6 +13,5 @@
       "operation": "add",
       "stat": "tconstruct:accuracy"
     }
-  ],
-  "show_in_tooltips": "always"
+  ]
 }

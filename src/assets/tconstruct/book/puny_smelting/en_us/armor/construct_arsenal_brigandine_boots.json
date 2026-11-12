@@ -1,0 +1,14 @@
+{
+  "tool": "construct_arsenal:brigandine_boots",
+  "text": [
+    { "text": "A sturdy pair of highly customizable boots for the avid wanderer." }
+  ],
+  "properties": [
+    "Medium Durability",
+    "Medium Armor",
+    "0 Upgrade Slots",
+    "3 Defense Slots",
+    "1 Ability Slot",
+    "3 Material Traits"
+  ]
+}

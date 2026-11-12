@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "construct_arsenal:brigandine_hood",
+    "construct_arsenal:brigandine_coat",
+    "construct_arsenal:brigandine_greaves",
+    "construct_arsenal:brigandine_boots"
+  ]
+}

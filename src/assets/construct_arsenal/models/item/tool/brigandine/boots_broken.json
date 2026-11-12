@@ -1,0 +1,16 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default",
+  "textures": {
+    "trim": "construct_arsenal:item/tool/armor/brigandine/boots/trim",
+    "upper": "construct_arsenal:item/tool/armor/brigandine/boots/upper_broken",
+    "lower": "construct_arsenal:item/tool/armor/brigandine/boots/lower_broken"
+  },
+  "parts": [
+    { "name": "trim", "index": 0 },
+    { "name": "upper", "index": 1 },
+    { "name": "lower", "index": 2 }
+  ],
+  "modifier_maps": [ "construct_arsenal:brigandine/boots_broken" ],
+  "modifier_roots": [ "construct_arsenal:item/tool/brigandine/boots/modifiers/" ]
+}

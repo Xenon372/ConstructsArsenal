@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:part_builder",
+  "cost": 1,
+  "pattern": "construct_arsenal:lining",
+  "pattern_item": {
+    "tag": "tconstruct:patterns/default"
+  },
+  "result": {
+    "item": "construct_arsenal:lining"
+  }
+}

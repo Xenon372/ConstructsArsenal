@@ -6,6 +6,21 @@
   "modifier.construct_arsenal.disruptive.description": "Tool does bonus damage against creatures from the End!",
   "modifier.construct_arsenal.disruptive.attack_damage": "Disruptive Damage",
 
+  "pattern.construct_arsenal.curved_blade": "Curved Blade",
+  "item.construct_arsenal.curved_blade": "Curved Blade",
+  "item.construct_arsenal.curved_blade_gold_cast": "Curved Blade Gold Cast",
+  "item.construct_arsenal.curved_blade_sand_cast": "Curved Blade Sand Cast",
+  "item.construct_arsenal.curved_blade_red_sand_cast": "Curved Blade Red Sand Cast",
+
+  "pattern.construct_arsenal.small_plating": "Small Plating",
+  "item.construct_arsenal.small_plating": "Small Plating",
+  "item.construct_arsenal.small_plating_gold_cast": "Small Plating Gold Cast",
+  "item.construct_arsenal.small_plating_sand_cast": "Small Plating Sand Cast",
+  "item.construct_arsenal.small_plating_red_sand_cast": "Small Plating Red Sand Cast",
+
+  "item.construct_arsenal.lining": "Lining",
+  "pattern.construct_arsenal.lining": "Lining",
+
   "item.construct_arsenal.quarterstaff": "Quarterstaff",
   "item.construct_arsenal.quarterstaff.description": "The Quarterstaff is a defensive polearm designed for light but fast blows against far away opponents.",
   
@@ -28,18 +43,6 @@
   "modifier.construct_arsenal.card_sleeve.flavor": "Sleek and protective",
   "modifier.construct_arsenal.card_sleeve.description": "Allows the card to move freely in water and grants an accuracy bonus",
   
-  "pattern.construct_arsenal.curved_blade": "Curved Blade",
-  "item.construct_arsenal.curved_blade": "Curved Blade",
-  "item.construct_arsenal.curved_blade_gold_cast": "Curved Blade Gold Cast",
-  "item.construct_arsenal.curved_blade_sand_cast": "Curved Blade Sand Cast",
-  "item.construct_arsenal.curved_blade_red_sand_cast": "Curved Blade Red Sand Cast",
-  
-  "pattern.construct_arsenal.small_plating": "Small Plating",
-  "item.construct_arsenal.small_plating": "Small Plating",
-  "item.construct_arsenal.small_plating_gold_cast": "Small Plating Gold Cast",
-  "item.construct_arsenal.small_plating_sand_cast": "Small Plating Sand Cast",
-  "item.construct_arsenal.small_plating_red_sand_cast": "Small Plating Red Sand Cast",
-  
   "item.construct_arsenal.buckler": "Buckler",
   "item.construct_arsenal.buckler.description": "The Buckler is a light shield that can be thrown.",
   "modifier.construct_arsenal.far_fetched": "Far-fetched",
@@ -47,7 +50,6 @@
   "modifier.construct_arsenal.far_fetched.description": "Ineffective dealing damage while held, but still effective when thrown",
   
   "item.construct_arsenal.scissors": "Scissors",
-  "item.construct_arsenal.scissors.description": "The Scissors are a set of massive shears that can be charged to deal heavy damage to opponents.",
   "modifier.construct_arsenal.guillotine": "Guillotine",
   "modifier.construct_arsenal.guillotine.flavor": "I'll split you in two!",
   "modifier.construct_arsenal.guillotine.description": "Charge up, aim at a foe, and release for massive damage!",
@@ -60,14 +62,18 @@
   "modifier.construct_arsenal.armiger.description": "Entitles the tool to an additional defense slot!",
 
   "item.construct_arsenal.railblade": "Railblade",
-  "item.construct_arsenal.railblade.description": "The Railblade is a peculiar weapon that functions as both a sword and crossbow.",
-
   "modifier.construct_arsenal.shear_trigger": "Shear Trigger",
   "modifier.construct_arsenal.shear_trigger.flavor": "Not quite a rough divide",
   "modifier.construct_arsenal.shear_trigger.description": "Firing the tool boosts critical hit damage",
 
   "item.construct_arsenal.diadem": "Ruler's Diadem",
-  "item.construct_arsenal.diadem.description": "The Ruler's Diadem is an old crown that can be imbued with a spell.",
+
+  "gui.construct_arsenal.brigandine_armor": "Brigandine Armor",
+  "item.construct_arsenal.brigandine_hood": "Brigandine Hood",
+  "item.construct_arsenal.brigandine_coat": "Brigandine Coat",
+  "item.construct_arsenal.brigandine_greaves": "Brigandine Greaves",
+  "item.construct_arsenal.brigandine_boots": "Brigandine Boots",
+  "gui.construct_arsenal.brigandine_armor.description": "Brigandine is a variable armor set built from light materials. What it lacks in upgrade slots it makes up for with its traits and defensive potential.",
 
   "advancements.construct_arsenal.tools.shiny_card.title": "Polychrome",
   "advancements.construct_arsenal.tools.shiny_card.description": "Hex any card",

@@ -1,0 +1,22 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default",
+  "textures": {
+    "trim": "construct_arsenal:item/tool/armor/brigandine/hood/trim",
+    "upper": "construct_arsenal:item/tool/armor/brigandine/hood/upper",
+    "lower": "construct_arsenal:item/tool/armor/brigandine/hood/lower"
+  },
+  "parts": [
+    { "name": "trim", "index": 0 },
+    { "name": "upper", "index": 1 },
+    { "name": "lower", "index": 2 }
+  ],
+  "modifier_maps": [ "construct_arsenal:brigandine/hood" ],
+  "modifier_roots": [ "construct_arsenal:item/tool/brigandine/hood/modifiers/" ],
+  "overrides": [
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "construct_arsenal:item/tool/brigandine/hood_broken"
+    }
+  ]
+}

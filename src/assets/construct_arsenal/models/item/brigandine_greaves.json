@@ -1,0 +1,22 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default",
+  "textures": {
+    "trim": "construct_arsenal:item/tool/armor/brigandine/greaves/trim",
+    "upper": "construct_arsenal:item/tool/armor/brigandine/greaves/upper",
+    "lower": "construct_arsenal:item/tool/armor/brigandine/greaves/lower"
+  },
+  "parts": [
+    { "name": "trim", "index": 0 },
+    { "name": "upper", "index": 1 },
+    { "name": "lower", "index": 2 }
+  ],
+  "modifier_maps": [ "construct_arsenal:brigandine/greaves" ],
+  "modifier_roots": [ "construct_arsenal:item/tool/brigandine/greaves/modifiers/" ],
+  "overrides": [
+    {
+      "predicate": { "tconstruct:broken": 1 },
+      "model": "construct_arsenal:item/tool/brigandine/greaves_broken"
+    }
+  ]
+}

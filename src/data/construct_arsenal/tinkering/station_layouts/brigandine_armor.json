@@ -1,0 +1,47 @@
+{
+  "translation_key": "gui.construct_arsenal.brigandine_armor",
+  "icon": {
+    "pattern": "construct_arsenal:brigandine_armor"
+  },
+  "sortIndex": 16,
+  "input_slots": [
+    {
+      "filter": [
+        {
+          "item": "tconstruct:helmet_plating"
+        },
+        {
+          "item": "tconstruct:chestplate_plating"
+        },
+        {
+          "item": "tconstruct:leggings_plating"
+        },
+        {
+          "item": "tconstruct:boots_plating"
+        }
+      ],
+      "icon": "tconstruct:plating",
+      "translation_key": "pattern.tconstruct.plating",
+      "x": 33,
+      "y": 29
+    },
+    {
+      "filter": {
+        "item": "construct_arsenal:lining"
+      },
+      "icon": "construct_arsenal:lining",
+      "translation_key": "item.construct_arsenal.lining",
+      "x": 23,
+      "y": 49
+    },
+    {
+      "filter": {
+        "tag": "construct_arsenal:canvases"
+      },
+      "icon": "construct_arsenal:lining",
+      "translation_key": "item.construct_arsenal.lining",
+      "x": 43,
+      "y": 49
+    }
+  ]
+}

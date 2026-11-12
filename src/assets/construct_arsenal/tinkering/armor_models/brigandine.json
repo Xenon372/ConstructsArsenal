@@ -1,0 +1,38 @@
+{
+  "layers": [
+    {
+      "type": "tconstruct:material",
+      "index": 0,
+      "prefix": "construct_arsenal:brigandine/trim_"
+    },
+    {
+      "type": "tconstruct:first_present",
+      "options": [
+        {
+          "type": "tconstruct:dyed",
+          "prefix": "construct_arsenal:brigandine/upper_"
+        },
+        {
+          "type": "tconstruct:material",
+          "index": 1,
+          "prefix": "construct_arsenal:brigandine/upper_"
+        }
+      ]
+    },
+    {
+      "type": "tconstruct:first_present",
+      "options": [
+        {
+          "type": "tconstruct:dyed",
+          "prefix": "construct_arsenal:brigandine/lower_"
+        },
+        {
+          "type": "tconstruct:material",
+          "index": 2,
+          "prefix": "construct_arsenal:brigandine/lower_"
+        }
+      ]
+    },
+    "tconstruct:trim"
+  ]
+}

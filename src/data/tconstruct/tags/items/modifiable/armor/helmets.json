@@ -4,6 +4,7 @@
     {
       "id": "construct_arsenal:diadem",
       "required": false
-    }
+    },
+    "construct_arsenal:brigandine_hood"
   ]
 }

@@ -22,13 +22,22 @@
       "construct_arsenal:longsword",
       "construct_arsenal:railblade",
       "construct_arsenal:throwing_card",
+
+      "construct_arsenal:brigandine_hood",
+      "construct_arsenal:brigandine_coat",
+      "construct_arsenal:brigandine_greaves",
+      "construct_arsenal:brigandine_boots",
+
       "construct_arsenal:curved_blade",
       "construct_arsenal:curved_blade_gold_cast",
       "construct_arsenal:curved_blade_sand_cast",
       "construct_arsenal:curved_blade_red_sand_cast",
+
       "construct_arsenal:small_plating",
       "construct_arsenal:small_plating_gold_cast",
       "construct_arsenal:small_plating_sand_cast",
-      "construct_arsenal:small_plating_red_sand_cast"
+      "construct_arsenal:small_plating_red_sand_cast",
+
+      "construct_arsenal:lining"
   ]
 }

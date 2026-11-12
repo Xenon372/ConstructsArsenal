@@ -1,0 +1,12 @@
+{
+  "constant": {
+    "__dyed": {
+      "type": "tconstruct:crafted",
+      "model": {
+        "type": "tconstruct:dyed",
+        "texture": "construct_arsenal:item/tool/armor/brigandine/greaves_broken/modifiers/dyed"
+      },
+      "modifier": "tconstruct:dyed"
+    }
+  }
+}

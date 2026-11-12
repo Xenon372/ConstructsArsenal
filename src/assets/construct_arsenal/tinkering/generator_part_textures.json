@@ -3,6 +3,7 @@
   "parts": [
     { "path": "construct_arsenal:item/tool/parts/curved_blade",                       "stat_type": "tconstruct:head" },
     { "path": "construct_arsenal:item/tool/parts/small_plating",                      "stat_type": "tconstruct:plating_helmet" },
+    { "path": "construct_arsenal:item/tool/parts/lining",                             "stat_type": "tconstruct:cuirass" },
 
 
     { "path": "construct_arsenal:item/tool/quarterstaff/top_handle",                  "stat_type": "tconstruct:handle" },
@@ -107,6 +108,40 @@
     { "path": "construct_arsenal:item/tool/armor/diadem/crown_broken",                "stat_type": "tconstruct:plating_helmet" },
 
     { "path": "construct_arsenal:tinker_armor/diadem/crown_armor",                    "stat_type": "tconstruct:plating_helmet",     "allow_animated": false },
-    { "path": "construct_arsenal:tinker_armor/diadem/gem_armor",                      "stat_type": "constructs_casting:adornment",  "allow_animated": false }
+    { "path": "construct_arsenal:tinker_armor/diadem/gem_armor",                      "stat_type": "constructs_casting:adornment",  "allow_animated": false },
+
+
+    { "path": "construct_arsenal:item/tool/armor/brigandine/hood/trim",               "stat_type": "tconstruct:plating_helmet" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/hood/upper",              "stat_type": "tconstruct:cuirass" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/hood/lower",              "stat_type": "tconstruct:cuirass" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/hood/upper_broken",       "stat_type": "tconstruct:cuirass" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/hood/lower_broken",       "stat_type": "tconstruct:cuirass" },
+
+    { "path": "construct_arsenal:item/tool/armor/brigandine/coat/trim",               "stat_type": "tconstruct:plating_helmet" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/coat/upper",              "stat_type": "tconstruct:cuirass" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/coat/lower",              "stat_type": "tconstruct:cuirass" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/coat/upper_broken",       "stat_type": "tconstruct:cuirass" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/coat/lower_broken",       "stat_type": "tconstruct:cuirass" },
+
+    { "path": "construct_arsenal:item/tool/armor/brigandine/greaves/trim",            "stat_type": "tconstruct:plating_helmet" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/greaves/upper",           "stat_type": "tconstruct:cuirass" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/greaves/lower",           "stat_type": "tconstruct:cuirass" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/greaves/upper_broken",    "stat_type": "tconstruct:cuirass" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/greaves/lower_broken",    "stat_type": "tconstruct:cuirass" },
+
+    { "path": "construct_arsenal:item/tool/armor/brigandine/boots/trim",              "stat_type": "tconstruct:plating_helmet" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/boots/upper",             "stat_type": "tconstruct:cuirass" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/boots/lower",             "stat_type": "tconstruct:cuirass" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/boots/upper_broken",      "stat_type": "tconstruct:cuirass" },
+    { "path": "construct_arsenal:item/tool/armor/brigandine/boots/lower_broken",      "stat_type": "tconstruct:cuirass" },
+
+
+    { "path": "construct_arsenal:tinker_armor/brigandine/trim_armor",                 "stat_type": "tconstruct:plating_helmet",     "allow_animated": false },
+    { "path": "construct_arsenal:tinker_armor/brigandine/upper_armor",                "stat_type": "tconstruct:cuirass",            "allow_animated": false },
+    { "path": "construct_arsenal:tinker_armor/brigandine/lower_armor",                "stat_type": "tconstruct:cuirass",            "allow_animated": false },
+
+    { "path": "construct_arsenal:tinker_armor/brigandine/trim_leggings",              "stat_type": "tconstruct:plating_helmet",     "allow_animated": false },
+    { "path": "construct_arsenal:tinker_armor/brigandine/upper_leggings",             "stat_type": "tconstruct:cuirass",            "allow_animated": false },
+    { "path": "construct_arsenal:tinker_armor/brigandine/lower_leggings",             "stat_type": "tconstruct:cuirass",            "allow_animated": false }
   ]
 }

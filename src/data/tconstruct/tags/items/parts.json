@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "construct_arsenal:curved_blade",
-    "construct_arsenal:small_plating"
+    "construct_arsenal:small_plating",
+    "construct_arsenal:lining"
   ]
 }

@@ -1,6 +1,5 @@
 {
   "level_display": "tconstruct:single_level",
-  "show_in_tooltips": "always",
   "modules": [
     {
       "type": "tconstruct:attribute",
