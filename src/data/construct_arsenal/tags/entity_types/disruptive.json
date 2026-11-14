@@ -2,6 +2,7 @@
   "values": [
     "minecraft:enderman",
     "minecraft:endermite",
+    "tconstruct:ender_slime",
     "minecraft:ender_dragon",
     "minecraft:shulker"
   ]
