@@ -139,6 +139,7 @@
     { "path": "construct_arsenal:tinker_armor/brigandine/trim_armor",                 "stat_type": "tconstruct:plating_helmet",     "allow_animated": false },
     { "path": "construct_arsenal:tinker_armor/brigandine/upper_armor",                "stat_type": "tconstruct:cuirass",            "allow_animated": false },
     { "path": "construct_arsenal:tinker_armor/brigandine/lower_armor",                "stat_type": "tconstruct:cuirass",            "allow_animated": false },
+    { "path": "construct_arsenal:tinker_armor/brigandine/upper_wings",                "stat_type": "tconstruct:cuirass",            "allow_animated": false },
 
     { "path": "construct_arsenal:tinker_armor/brigandine/trim_leggings",              "stat_type": "tconstruct:plating_helmet",     "allow_animated": false },
     { "path": "construct_arsenal:tinker_armor/brigandine/upper_leggings",             "stat_type": "tconstruct:cuirass",            "allow_animated": false },
