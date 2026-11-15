@@ -7,6 +7,14 @@
         "texture": "construct_arsenal:item/tool/armor/brigandine/hood_broken/modifiers/dyed"
       },
       "modifier": "tconstruct:dyed"
+    },
+    "_trim": {
+      "type": "tconstruct:crafted",
+      "model": {
+        "type": "tconstruct:armor_trim",
+        "slot": "helmet"
+      },
+      "modifier": "tconstruct:trim"
     }
   }
 }

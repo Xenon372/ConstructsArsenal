@@ -36,7 +36,7 @@
     },
     {
       "filter": {
-        "tag": "construct_arsenal:canvases"
+        "item": "construct_arsenal:lining"
       },
       "icon": "construct_arsenal:lining",
       "translation_key": "item.construct_arsenal.lining",
