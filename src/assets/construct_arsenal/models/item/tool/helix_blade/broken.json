@@ -14,6 +14,7 @@
     "large_blade_br":   "construct_arsenal:item/tool/helix_blade/large/blade_br_broken",
     "large_hilt":   "construct_arsenal:item/tool/helix_blade/large/hilt"
   },
+  "modifier_maps": [ "construct_arsenal:helix_blade" ],
   "modifier_roots": {
 	  "small": [ "construct_arsenal:item/tool/helix_blade/modifiers/" ],
 	  "large": [ "construct_arsenal:item/tool/helix_blade/large/modifiers/" ]

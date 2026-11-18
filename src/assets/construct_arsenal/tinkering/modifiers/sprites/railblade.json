@@ -1,0 +1,101 @@
+{
+  "modifiers": {
+    "construct_arsenal:disruptive": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/construct_arsenal_antiaquatic",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/construct_arsenal_antiaquatic"
+    },
+    "tconstruct:antiaquatic": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_antiaquatic",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_antiaquatic"
+    },
+    "tconstruct:bane_of_sssss": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_bane_of_sssss",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_bane_of_sssss"
+    },
+    "tconstruct:cooling": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_cooling",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_cooling"
+    },
+    "tconstruct:diamond": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_diamond",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_diamond"
+    },
+    "tconstruct:emerald": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_emerald",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_emerald"
+    },
+    "tconstruct:experienced": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_experienced",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_experienced"
+    },
+    "tconstruct:fiery": {
+      "luminosity": 10,
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_fiery",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_fiery"
+    },
+    "tconstruct:freezing": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_freezing",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_freezing"
+    },
+    "tconstruct:glowing": {
+      "luminosity": 15,
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_glowing"
+    },
+    "tconstruct:knockback": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_knockback",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_knockback"
+    },
+    "tconstruct:luck": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_luck",
+      "texture_large": "tconstruct:item/tool/railblade/large/modifiers/tconstruct_luck"
+    },
+    "tconstruct:magnetic": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_magnetic",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_magnetic"
+    },
+    "tconstruct:netherite": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_netherite",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_netherite"
+    },
+    "tconstruct:overforced": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_overforced",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_overforced"
+    },
+    "tconstruct:reinforced": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_reinforced",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_reinforced"
+    },
+    "tconstruct:sharpness": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_sharpness",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_sharpness"
+    },
+    "tconstruct:silky": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_silky",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_silky"
+    },
+    "tconstruct:smite": {
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_smite",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_smite"
+    },
+    "tconstruct:soulbound": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_soulbound",
+    "tconstruct:tank": [
+      {
+        "type": "tconstruct:tank",
+        "full": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_tank_full",
+        "full_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_tank_full",
+        "partial": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_tank_partial",
+        "partial_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_tank_partial"
+      },
+      {
+        "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_tank",
+        "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_tank"
+      }
+    ],
+    "tconstruct:trueshot": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_trueshot",
+    "tconstruct:unbreakable": {
+      "luminosity": 2,
+      "texture": "construct_arsenal:item/tool/railblade/modifiers/tconstruct_unbreakable",
+      "texture_large": "construct_arsenal:item/tool/railblade/large/modifiers/tconstruct_unbreakable"
+    }
+  }
+}

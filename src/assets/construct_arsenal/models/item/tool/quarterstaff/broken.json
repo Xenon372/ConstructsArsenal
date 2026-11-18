@@ -12,6 +12,7 @@
     "large_caps":  "construct_arsenal:item/tool/quarterstaff/large/caps",
     "large_grip":   "construct_arsenal:item/tool/quarterstaff/large/grip"
   },
+  "modifier_maps": [ "construct_arsenal:quarterstaff" ],
   "modifier_roots": {
 	  "small": [ "construct_arsenal:item/tool/quarterstaff/modifiers/" ],
 	  "large": [ "construct_arsenal:item/tool/quarterstaff/large/modifiers/" ]

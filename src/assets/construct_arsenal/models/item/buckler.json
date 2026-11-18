@@ -6,8 +6,8 @@
     "rim_top": "construct_arsenal:item/tool/buckler/rim_top",
     "rim_bottom": "construct_arsenal:item/tool/buckler/rim_bottom"
   },
+  "modifier_maps": [ "construct_arsenal:buckler" ],
   "modifier_roots": [ "construct_arsenal:item/tool/buckler/modifiers/" ],
-  "first_modifiers": [ "tconstruct:dyed" ],
   "parts": [
     { "name": "rim_top", "index": 1 },
     { "name": "core", "index": 0 },

@@ -12,6 +12,7 @@
     "large_guard":  "construct_arsenal:item/tool/longsword/large/guard",
     "large_handle":   "construct_arsenal:item/tool/longsword/large/handle"
   },
+  "modifier_maps": [ "construct_arsenal:longsword" ],
   "modifier_roots": {
 	  "small": [ "construct_arsenal:item/tool/longsword/modifiers/" ],
 	  "large": [ "construct_arsenal:item/tool/longsword/large/modifiers/" ]

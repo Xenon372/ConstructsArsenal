@@ -1,0 +1,30 @@
+{
+  "constant": {
+    "__dyed": {
+      "type": "tconstruct:crafted",
+      "model": {
+        "type": "tconstruct:dyed",
+        "texture": "construct_arsenal:item/tool/ammo/card_modifiers/dyed"
+      },
+      "modifier": "tconstruct:dyed"
+    },
+    "__tipped": {
+      "type": "tconstruct:trait",
+      "model": {
+        "type": "tconstruct:potion",
+        "texture": "construct_arsenal:item/tool/ammo/card_modifiers/tipped"
+      },
+      "modifier": "tconstruct:tipped"
+    },
+    "smashing": {
+      "type": "tconstruct:trait",
+      "model": {
+        "type": "tconstruct:fluid",
+        "mask": "construct_arsenal:item/tool/ammo/card_modifiers/smashing",
+        "tank_helper": "tconstruct:smashing"
+      },
+      "modifier": "tconstruct:smashing"
+    }
+  },
+  "construct_arsenal:card_sleeve": "construct_arsenal:item/tool/ammo/card_modifiers/card_sleeve"
+}
